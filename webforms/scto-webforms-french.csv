@@ -1,0 +1,4 @@
+001,Connexion,Appears in the user dropdown in the header,Log in
+002,Déconnexion,Appears in the user dropdown in the header,Log out
+003,Fermer,The button to close the 'go-to' UI,Close
+004,Annuler,The button to cancel out of a popup,Cancel
