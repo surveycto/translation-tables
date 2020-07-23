@@ -8,4 +8,4 @@ Each translation table is stored as a UTF-8 .csv file with 5 columns (and no hea
 
 |Term|Translation|Context|Reference|Comment|
 |---|---|---|---|---|
-|This is the ID of the string. This is used to identify which string to use, so it cannot be changed.|This is the translated version of the string. I.e., this is how the string should appear when the current translation table is being used.|A note to help give more information about where/when this particular string shows up.|We use English as the reference language, so this column will contain the English translation of the term, just for reference.|Any other comments that might be helpful.|
+|This is the term ID. This is what is referenced in the code to identify the term, so it cannot be changed.|This is the translated version of the term. I.e., this is how the text should appear in the current language.|A note to help give more information about where/when this particular term shows up.|We use English as the reference language, so this column will contain the English translation of the term, just for reference.|Any other comments that might be helpful.|

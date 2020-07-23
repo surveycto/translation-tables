@@ -1,4 +1,4 @@
-001,Connexion,Appears in the user dropdown in the header,Log in
-002,Déconnexion,Appears in the user dropdown in the header,Log out
-003,Fermer,The button to close the 'go-to' UI,Close
-004,Annuler,The button to cancel out of a popup,Cancel
+commons.login.panel.loggedin.as,,,You are currently logged in as
+commons.login.panel.login.and.continue.btn,Connectez-vous et continuez,,Log in and continue
+commons.login.panel.login.btn,Connexion,,Log in
+commons.login.panel.logout.btn,Déconnexion,,Log out
