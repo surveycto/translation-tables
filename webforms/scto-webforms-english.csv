@@ -1,12 +1,6 @@
 Key,Note,Translation
 commons.learn.more,,Learn more...
-commons.login.panel.loggedin.as,,You are currently logged in as
-commons.login.panel.login.and.continue.btn,,Log in and continue
-commons.login.panel.login.btn,,Log in
-commons.login.panel.logout.btn,,Log out
-commons.login.panel.not.loggedin.long,,You are not currently logged in
-commons.login.panel.not.loggedin.short,,Not logged in
-commons.powered.by.surveycto,,Powered by SurveyCTO
+commons.powered.by.surveycto,,Powered by {0}
 web.forms.page.delete.instances.confirmation.message,,Are you sure you want to delete this form?
 web.forms.page.delete.instances.confirmation.negative.button,,Do not delete
 web.forms.page.delete.instances.confirmation.positive.button,,"Yes, delete it"
@@ -16,6 +10,7 @@ web.forms.page.delete.instances.title,,Delete saved form
 web.forms.page.edit.instances.header,,Choose a saved form to resume editing:
 web.forms.page.edit.instances.title,,Saved forms list
 web.forms.page.filling.audio.select.file.button,,Select audio file
+web.forms.page.filling.banner.tooltip,,{0} (version: {1})
 web.forms.page.filling.barcode.error.not.supported,,Barcode scanning not supported in web forms. Please enter the barcode details here.
 web.forms.page.filling.binary.error.large.file,,"I'm sorry, but you cannot attach a file that is more than {0}MB in size. Please attach a smaller file before continuing."
 web.forms.page.filling.date.months.april,,April
@@ -68,6 +63,12 @@ web.forms.page.filling.last.screen.name.label,,Name this form
 web.forms.page.filling.last.screen.save.exit.button,,Save Form and Exit
 web.forms.page.filling.last.screen.submit.button,,Submit Form
 web.forms.page.filling.last.screen.title,,You are at the end of {0}
+web.forms.page.filling.login.panel.loggedin.as,,You are currently logged in as
+web.forms.page.filling.login.panel.login.and.continue.btn,,Log in and continue
+web.forms.page.filling.login.panel.login.btn,,Log in
+web.forms.page.filling.login.panel.logout.btn,,Log out
+web.forms.page.filling.login.panel.not.loggedin.long,,You are not currently logged in
+web.forms.page.filling.login.panel.not.loggedin.short,,Not logged in
 web.forms.page.filling.menu.add.comment,,Add comment
 web.forms.page.filling.menu.appearance,,Appearance
 web.forms.page.filling.menu.appearance.default,,Default
