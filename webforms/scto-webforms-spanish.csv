@@ -1,0 +1,170 @@
+Term,Translation,Context,Reference,Comment
+commons.learn.more,Aprende más...
+commons.powered.by.surveycto,Desarrollado por {0}
+web.forms.page.delete.instances.confirmation.message,¿Estás seguro de que deseas eliminar este formulario?
+web.forms.page.delete.instances.confirmation.negative.button,No borres
+web.forms.page.delete.instances.confirmation.positive.button,"Si, elimínalo"
+web.forms.page.delete.instances.confirmation.title,Confirmar la eliminación
+web.forms.page.delete.instances.header,Elija un formulario para eliminar:
+web.forms.page.delete.instances.title,Eliminar formulario guardado
+web.forms.page.edit.instances.header,Elija un formulario guardado para reanudar la edición:
+web.forms.page.edit.instances.title,Lista de formularios guardados
+web.forms.page.filling.audio.select.file.button,Seleccionar archivo de audio
+web.forms.page.filling.banner.tooltip,{0} (versión: {1})
+web.forms.page.filling.barcode.error.not.supported,El escaneo de códigos de barras no es compatible con los formularios web. Ingrese los detalles del código de barras aquí.
+web.forms.page.filling.binary.error.large.file,"Lo siento, pero no puede adjuntar un archivo que tenga más de {0} MB de tamaño. Adjunte un archivo más pequeño antes de continuar."
+web.forms.page.filling.date.months.april,Abril
+web.forms.page.filling.date.months.august,Agosto
+web.forms.page.filling.date.months.december,Diciembre
+web.forms.page.filling.date.months.february,Febrero
+web.forms.page.filling.date.months.january,Enero
+web.forms.page.filling.date.months.july,Julio
+web.forms.page.filling.date.months.june,Junio
+web.forms.page.filling.date.months.march,Marzo
+web.forms.page.filling.date.months.may,Mayo
+web.forms.page.filling.date.months.november,Noviembre
+web.forms.page.filling.date.months.october,Octubre
+web.forms.page.filling.date.months.september,Septiembre
+web.forms.page.filling.file.current.selection.label,Selección actual
+web.forms.page.filling.file.select.different.button,Seleccione un archivo diferente
+web.forms.page.filling.file.select.file.button,Seleccione un archivo
+web.forms.page.filling.geopoint.accuracy,Exactitud
+web.forms.page.filling.geopoint.altitude,Altitud
+web.forms.page.filling.geopoint.error.geolocation.not.supported,La geolocalización no es compatible con este navegador.
+web.forms.page.filling.geopoint.error.not.available,La información de ubicación no está disponible.
+web.forms.page.filling.geopoint.error.permission.denied,No se puede identificar la ubicación (permiso denegado). Es posible que deba cambiar la configuración de seguridad de su navegador para permitir que este sitio web acceda a su ubicación.
+web.forms.page.filling.geopoint.error.request.timeout,Se agotó el tiempo de espera de la solicitud para obtener la ubicación del usuario.
+web.forms.page.filling.geopoint.error.unknown,Un error desconocido ocurrió.
+web.forms.page.filling.geopoint.latitude,Latitud
+web.forms.page.filling.geopoint.longitude,Longitud
+web.forms.page.filling.geopoint.record.location.button,Ubicación de registro
+web.forms.page.filling.geopoint.replace.location.button,Reemplazar ubicación
+web.forms.page.filling.geoshape.error.not.supported,"Este tipo de campo no es compatible con la interfaz web, por lo que deberá utilizar SurveyCTO Collect en un dispositivo Android para completarlo correctamente. Aquí, solo podrá seleccionar una sola posición GPS."
+web.forms.page.filling.geotrace.error.not.supported,"Este tipo de campo no es compatible con la interfaz web, por lo que deberá utilizar SurveyCTO Collect en un dispositivo Android para completarlo correctamente. Aquí, solo podrá seleccionar una sola posición GPS."
+web.forms.page.filling.go.to.button,Ir
+web.forms.page.filling.go.to.UI.close,Cerca
+web.forms.page.filling.go.to.UI.go.there,Ve allí
+web.forms.page.filling.go.to.UI.go.to.end,Ir al final
+web.forms.page.filling.go.to.UI.go.to.start,Ir al comienzo
+web.forms.page.filling.go.to.UI.go.up,Subir
+web.forms.page.filling.go.to.UI.resume,Currículum
+web.forms.page.filling.image.align.not.supported,La apariencia 'alinear' no es compatible. Sube un archivo en su lugar.
+web.forms.page.filling.image.annotate.hint,Sube una imagen anotada.
+web.forms.page.filling.image.draw.hint,Sube una imagen dibujada.
+web.forms.page.filling.image.select.file.button,Seleccionar imagen
+web.forms.page.filling.image.signature.hint,Sube un archivo con tu firma.
+web.forms.page.filling.image.take.picture.button,Tomar la foto
+web.forms.page.filling.image.web.not.supported,La apariencia 'web' no es compatible. Sube un archivo en su lugar.
+web.forms.page.filling.input.field.placeholder.label,Tu respuesta aquí ...
+web.forms.page.filling.intro.text,"Estás al comienzo de un formulario. Cuando esté listo para comenzar, haga clic en el botón <i> Siguiente </i> a continuación o a la derecha. <br/> <br/> Al final, tendrá la oportunidad de enviar sus respuestas."
+web.forms.page.filling.last.screen.hint,"Haga clic en el botón de abajo para enviar este formulario, ya que está lleno."
+web.forms.page.filling.last.screen.mark.finalized.checkbox,Marcar formulario como finalizado
+web.forms.page.filling.last.screen.name.label,Nombra este formulario
+web.forms.page.filling.last.screen.save.exit.button,Guardar formulario y salir
+web.forms.page.filling.last.screen.submit.button,Enviar formulario
+web.forms.page.filling.last.screen.title,Estás al final de {0}
+web.forms.page.filling.login.panel.loggedin.as,Actualmente estás conectado como
+web.forms.page.filling.login.panel.login.and.continue.btn,Inicia sesión y continúa
+web.forms.page.filling.login.panel.login.btn,Iniciar sesión
+web.forms.page.filling.login.panel.logout.btn,Cerrar sesión
+web.forms.page.filling.login.panel.not.loggedin.long,Actualmente no has iniciado sesión
+web.forms.page.filling.login.panel.not.loggedin.short,Sin iniciar sesión
+web.forms.page.filling.menu.add.comment,Agregar comentario
+web.forms.page.filling.menu.appearance,Apariencia
+web.forms.page.filling.menu.appearance.default,Defecto
+web.forms.page.filling.menu.appearance.small,Pequeña
+web.forms.page.filling.menu.appearance.small.wide,Pequeño ancho
+web.forms.page.filling.menu.appearance.wide,Amplio
+web.forms.page.filling.menu.change.language,Cambiar idioma
+web.forms.page.filling.menu.clear.responses,Respuestas claras
+web.forms.page.filling.menu.exit.to.main.menu,Salir al menú principal
+web.forms.page.filling.menu.options,Opciones
+web.forms.page.filling.menu.remove.current.repeat.instance,Eliminar la instancia de repetición actual
+web.forms.page.filling.menu.save.form,Guardar formulario
+web.forms.page.filling.menu.skip.to.next,Saltar al siguiente
+web.forms.page.filling.menu.start.over,Comenzar de nuevo
+web.forms.page.filling.menu.validate.form,Validar formulario
+web.forms.page.filling.nav.end,Ir al final
+web.forms.page.filling.nav.next,próximo
+web.forms.page.filling.nav.previous,Anterior
+web.forms.page.filling.nav.start,Ir al comienzo
+web.forms.page.filling.next.button,próximo
+web.forms.page.filling.numerical.error.large.file,Por favor ingrese solo un número.
+web.forms.page.filling.popups.add.comment.intro,Escriba su comentario en el campo a continuación:
+web.forms.page.filling.popups.add.comment.save.button,Guardar comentario
+web.forms.page.filling.popups.add.comment.title,Agregar comentario
+web.forms.page.filling.popups.add.new.group.message,"Agregar un nuevo grupo ""{0}""?"
+web.forms.page.filling.popups.add.new.group.negative.button,No añada
+web.forms.page.filling.popups.add.new.group.positive.button,Añadir grupo
+web.forms.page.filling.popups.add.new.group.title,Añadir nuevo grupo?
+web.forms.page.filling.popups.add.one.more.group.message,"¿Agregar otro grupo ""{0}""?"
+web.forms.page.filling.popups.add.one.more.group.title,Añadir un grupo más?
+web.forms.page.filling.popups.cancel.button,Cancelar
+web.forms.page.filling.popups.capture.media.done.button,Hecho
+web.forms.page.filling.popups.capture.media.take.button,Tomar instantáneas
+web.forms.page.filling.popups.capture.media.title,Captura de medios
+web.forms.page.filling.popups.clear.responses.prompt.button,Borrar todas las respuestas
+web.forms.page.filling.popups.clear.responses.prompt.message,¿Borrar todas las respuestas en esta página actual?
+web.forms.page.filling.popups.clear.responses.prompt.title,Confirmar
+web.forms.page.filling.popups.close.button,Cerca
+web.forms.page.filling.popups.confirm.discard.prompt.button,¡Sí estoy seguro!
+web.forms.page.filling.popups.confirm.discard.prompt.message,Esto descartará cualquier dato nuevo que haya ingresado. ¿Estás seguro?
+web.forms.page.filling.popups.confirm.discard.prompt.title,Confirmar salida
+web.forms.page.filling.popups.confirm.title,Confirmar
+web.forms.page.filling.popups.error.title,Error
+web.forms.page.filling.popups.exit.form.prompt.message,¿Desea guardar su formulario antes de salir o descartar todos los cambios que haya realizado?
+web.forms.page.filling.popups.exit.form.prompt.negative.button,Descartar los cambios
+web.forms.page.filling.popups.exit.form.prompt.positive.button,Guardar cambios
+web.forms.page.filling.popups.exit.form.prompt.title,Confirmar salida
+web.forms.page.filling.popups.form.saved.confirmation.message,¡Forma guardada con éxito!
+web.forms.page.filling.popups.form.validated.confirmation.message,Validación exitosa!
+web.forms.page.filling.popups.form.validated.go.to.end.button,Ir al final
+web.forms.page.filling.popups.remove.instance.prompt.button,"Si, elimínalo"
+web.forms.page.filling.popups.remove.instance.prompt.message,Confirmar eliminación de grupo
+web.forms.page.filling.popups.remove.instance.prompt.title,"¿Eliminar el grupo ""{0}"" y todos sus subgrupos?"
+web.forms.page.filling.popups.resume.prompt.message,"Ya ha comenzado a completar este formulario y lo actualizó por última vez en {0}. ¿Reanudar desde donde lo dejó, o descartar esa versión y comenzar de nuevo? (Si elige comenzar de nuevo, la versión anterior se descartará y no se podrá deshacer)."
+web.forms.page.filling.popups.resume.prompt.negative.button,Descarte
+web.forms.page.filling.popups.resume.prompt.positive.button,Currículum
+web.forms.page.filling.popups.resume.prompt.title,Formulario sin terminar encontrado
+web.forms.page.filling.popups.start.over.prompt.button,Descartar los cambios
+web.forms.page.filling.popups.start.over.prompt.message,¿Descartar todos los cambios y comenzar de nuevo con un formulario en blanco?
+web.forms.page.filling.popups.start.over.prompt.title,Confirmar salida
+web.forms.page.filling.popups.success.title,Éxito
+web.forms.page.filling.popups.warning.title,Advertencia
+web.forms.page.filling.repeat.table.add.row.button,Añadir fila
+web.forms.page.filling.repeat.table.back.level.button,Retrocede un nivel
+web.forms.page.filling.repeat.table.label,Resumen
+web.forms.page.filling.select1.minimal.label,Selecciona una respuesta
+web.forms.page.filling.selectx.minimal.remove.response.button.label,Eliminar respuesta
+web.forms.page.filling.text.error.numbers.appearance.invalid.input,"Lo sentimos, solo puede ingresar dígitos numéricos, más -, +, comas, puntos y espacios."
+web.forms.page.filling.text.error.numbers.phone.appearance.invalid.input,"Lo sentimos, solo puede ingresar dígitos del teléfono, además de -, +, puntos, hashtags, asteriscos y espacios."
+web.forms.page.filling.text.error.url.appearance.blank,No se establece ninguna URL.
+web.forms.page.filling.text.intents.not.supported,Intentos externos no admitidos en formularios web. Por favor ingrese los detalles aquí.
+web.forms.page.filling.text.queries.not.supported,Consultas no admitidas en formularios web. Por favor ingrese los detalles aquí.
+web.forms.page.filling.text.url.appearance.button,URL abierta
+web.forms.page.filling.text.zebra.not.supported,La impresora Zebra no es compatible con los formularios web.
+web.forms.page.filling.thankyou.not.submitted.text,¡Gracias! No se presentaron datos.
+web.forms.page.filling.thankyou.not.submitted.title,El formulario no fue enviado
+web.forms.page.filling.thankyou.submitted.text,¡Gracias! Su formulario ha sido enviado con éxito.
+web.forms.page.filling.thankyou.submitted.title,Formulario entregado satisfactoriamente
+web.forms.page.filling.trigger.error.not.supported,Los campos de activación no son compatibles con los formularios web. Por favor ingrese los detalles aquí.
+web.forms.page.filling.unknown.field.type.error.not.supported,"El tipo del campo '{0}' no se puede mostrar en la interfaz web, por lo que se utilizará un campo de texto."
+web.forms.page.filling.video.select.file.button,Seleccionar archivo de video
+web.forms.page.forms.header,Elija un formulario en blanco para completar:
+web.forms.page.forms.title,Rellenar formulario en blanco
+web.forms.page.maim.delete.saved.form.button,Eliminar formulario guardado
+web.forms.page.main.download.app.button,Descargar aplicación
+web.forms.page.main.edit.saved.form.button,Editar formulario guardado
+web.forms.page.main.fill.blank.form.button,Rellenar formulario en blanco
+web.forms.page.main.manage.cases.button,Administrar casos
+web.forms.page.main.sub.title,Recopilación de datos segura y de alta calidad.
+web.forms.page.main.title,Menú principal
+web.forms.page.shared.form.delete.button,Eliminar
+web.forms.page.shared.form.fill.out,Llenar
+web.forms.page.shared.form.last.saved,Último guardado
+web.forms.page.shared.form.name,Nombre
+web.forms.page.shared.form.resume.button,Currículum
+web.forms.page.shared.form.title,Título
+web.forms.page.shared.form.version,Versión
+web.forms.page.shared.no.forms.msg,No hay instancias
+web.forms.page.shared.return.to.main.page.button,Volver al menú principal
