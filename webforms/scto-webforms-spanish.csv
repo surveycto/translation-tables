@@ -1,5 +1,5 @@
 Term,Translation,Context,Reference,Comment
-commons.learn.more,Aprende más..., , ,
+commons.learn.more,Aprende más...,,,
 commons.powered.by.surveycto,Desarrollado por {0},,,
 web.forms.page.delete.instances.confirmation.message,¿Estás seguro de que deseas eliminar este formulario?,,,
 web.forms.page.delete.instances.confirmation.negative.button,No borres,,,
