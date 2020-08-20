@@ -2,6 +2,8 @@
 
 This repo contains translations for SurveyCTO components. Each table contains all the strings that can appear in the UI, translated into a particular language. Each language needs its own table.
 
+> **Please note:** while the English table in this repo is complete, the other tables in this repo are still being translated, and should not be used. Those terms which *have* been translated into languages other than English have mostly been translated using Google Translate, and have not yet been verified by a native speaker.
+
 ## Table structure
 
 Each translation table is stored as a UTF-8 CSV file with up to 6 columns:
