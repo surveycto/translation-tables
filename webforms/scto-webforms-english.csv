@@ -48,7 +48,6 @@ web.forms.page.filling.go.to.UI.go.to.end,Go to end,The button label in the 'go 
 web.forms.page.filling.go.to.UI.go.to.start,Go to start,The button label in the 'go to' screen for returning to the beginning of the form. ,,
 web.forms.page.filling.go.to.UI.go.up,Go up,The button label in the 'go to' UI for when you are currently within an instance of a repeat group and you would like to 'go up' a level.,,
 web.forms.page.filling.go.to.UI.resume,Resume,"When you return to a saved form to continue filling it out, this is the button label in the 'go to' UI for resuming where you left off.",,
-web.forms.page.filling.image.align.error.not.supported,The 'align' appearance is not supported. Please upload a file instead.,Error message.,,
 web.forms.page.filling.image.annotate.hint,Please upload an annotated image.,This is the message that appears above the buttons when filling out an image field with the 'annotate' appearance in a web form. ,,
 web.forms.page.filling.image.draw.hint,Please upload a drawn image.,This is the message that appears above the buttons when filling out an image field with the 'draw' appearance in a web form. ,,
 web.forms.page.filling.image.select.file.button,Select image,Button label in an image field for selecting an existing image. ,,
