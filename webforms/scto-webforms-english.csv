@@ -76,7 +76,6 @@ web.forms.page.filling.menu.appearance.default,Default,Label in the Appearance d
 web.forms.page.filling.menu.appearance.small,Small,Label in the Appearance dropdown menu for the 'small' appearance style.,,
 web.forms.page.filling.menu.appearance.small.wide,Small wide,Label in the Appearance dropdown menu for the 'small wide' appearance style.,,
 web.forms.page.filling.menu.appearance.wide,Wide,Label in the Appearance dropdown menu for the 'wide' appearance style.,,
-web.forms.page.filling.menu.change.language,Change language,"If your form contains multiple languages, this option will appear in the 'options' dropdown menu.",,
 web.forms.page.filling.menu.clear.responses,Clear responses,The option in the 'options' dropdown menu to remove your response from the current field. ,,
 web.forms.page.filling.menu.exit.to.main.menu,Exit to main menu,Logged-in users will see this option in the 'options' dropdown menu.,,
 web.forms.page.filling.menu.options,Options,The label for the 'options' dropdown menu.,,
