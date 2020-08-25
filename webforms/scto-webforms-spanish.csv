@@ -149,7 +149,7 @@ web.forms.page.filling.unknown.field.type.error.not.supported,"El tipo del campo
 web.forms.page.filling.video.select.file.button,Seleccionar archivo de video,The button label in a 'video' field type.,,,Select video file
 web.forms.page.forms.header,Elija un formulario en blanco para completar:,The heading text at the top of the 'fill blank form' page.,,,Choose a blank form to fill out:
 web.forms.page.forms.title,Rellenar formulario en blanco,The page title of the 'fill blank form' page.,,,Fill blank form
-web.forms.page.maim.delete.saved.form.button,Eliminar formulario guardado,The button label on the main menu page (only available to logged-in users).,,,Delete saved form
+web.forms.page.main.delete.saved.form.button,Eliminar formulario guardado,The button label on the main menu page (only available to logged-in users).,,,Delete saved form
 web.forms.page.main.download.app.button,Descargar aplicación,The button label on the main menu page.,,,Download app
 web.forms.page.main.edit.saved.form.button,Editar formulario guardado,The button label on the main menu page (only available to logged-in users).,,,Edit saved form
 web.forms.page.main.fill.blank.form.button,Rellenar formulario en blanco,The button label on the main menu page for logged-in users to get to the 'fill blank form' page.,,,Fill blank form
