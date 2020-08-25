@@ -169,16 +169,16 @@ web.forms.page.shared.return.to.main.page.button,Revenir au menu principal,The b
 web.forms.page.login.fill.web.data.collection.disabled.text,"(La collecte de données Web n'a pas été activée pour ce serveur, vous devez donc utiliser l'application mobile pour collecter des données.)",Warning that appears when you access the login page but an admin has disabled web data collection.,,,"(Web data collection has not been enabled for this server, so you must use the mobile app to collect data.)"
 web.forms.page.login.go.back.to.console.link,Cliquez ici pour vous connecter à la console du serveur.,Link for returning to the server console.,,,Click here to login to the server console.
 web.forms.page.login.fill.web.forms.anonymously.button,Remplissez les formulaires Web de manière anonyme,The button label for filling web forms anonymously.,,,Fill web forms anonymously
-web.forms.page.login.or.text,Ou,The button label for the separator of access options.,,,Or
-web.forms.page.login.servername.input,Nom du serveur:,The label for the server name input when logging in.,,,Server name:
-web.forms.page.login.username.input,Adresse e-mail ou nom d'utilisateur:,The label for the username input when logging in.,,,Email address or username:
-web.forms.page.login.username.placeholder,Votre email ou nom d'utilisateur,This is the placeholder for the username input when logging in.,,,Your email or username
-web.forms.page.login.password.input,Mot de passe:,The label for the password input when logging in.,,,Password:
-web.forms.page.login.password.placeholder,Votre mot de passe,This is the placeholder for the password input when logging in.,,,Your password
-web.forms.page.login.back.button,Retour,The button label for changing the username for login. Appears when there are externally authenticated users on the server but a password is required for the username specified.,,,Back
-web.forms.page.login.next.button,Suivant,The button label for proceeding with the login. Appears when there are externally authenticated users on the server.,,,Next
+web.forms.page.login.or.text,Ou,"This text separates the different form access options on the login page (fill forms anonymously, log in, or download the mobile app). Please note: this text will always be rendered in uppercase letters. ",,,Or
+web.forms.page.login.servername.input,Nom du serveur:,The label for the server name input on the login page.,,,Server name:
+web.forms.page.login.username.input,Adresse e-mail ou nom d'utilisateur:,The label for the username input on the login page.,,,Email address or username:
+web.forms.page.login.username.placeholder,Votre email ou nom d'utilisateur,This is the placeholder for the username input on the login page.,,,Your email or username
+web.forms.page.login.password.input,Mot de passe:,The label for the password input on the login page.,,,Password:
+web.forms.page.login.password.placeholder,Votre mot de passe,This is the placeholder for the password input on the login page.,,,Your password
+web.forms.page.login.back.button,Retour,"The button label for changing the username for login. Appears when external authentication (SSO) is set up on the server, but the current username specified requires a password.",,,Back
+web.forms.page.login.next.button,Suivant,"The button label for proceeding with the login. Appears when external authentication (SSO) is set up on the server, but the current username specified requires a password.",,,Next
 web.forms.page.login.login.button,Connectez-vous,The button label for logging in.,,,Log in
 web.forms.page.login.terms.conditions.link,Termes et conditions,The label for the terms and conditions link.,,,Terms and conditions
-web.forms.page.login.brought.to.you.by.text,Présenté par,SurveyCTO branding. Appears only on the login page.,,,Brought to you by
+web.forms.page.login.brought.to.you.by.text,Présenté par,Dobility branding. Appears only on the login page.,,,Brought to you by
 web.forms.page.login.no.cookies.error,"Il semble que vous ayez désactivé la prise en charge des ""cookies"" dans les paramètres de confidentialité de votre navigateur Internet,mais SurveyCTO a besoin de cookies pour fonctionner. Par conséquent, il est peu probable que vous puissiez connectez-vous jusqu'à ce que vous activiez les cookies et actualisiez cette page.",Error message that appears when you try to log in with cookies disabled.,,,"It looks like you have disabled ""cookie"" support in your Internet browser's privacy settings, but SurveyCTO requires cookies to function. Therefore, you are unlikely to be able to login until you enable cookies and refresh this page."
-web.forms.page.login.authentication.options.error,"Je suis désolé mais nous n'avons pas pu identifier les options d'authentification pour '{0}'.",Error message that appears when the server cannot identify authentication options for a username.,,,"I'm sorry but we couldn't identify authentication options for '{0}'."
+web.forms.page.login.authentication.options.error,Je suis désolé mais nous n'avons pas pu identifier les options d'authentification pour '{0}'.,Error message that appears when the server cannot identify authentication options for a username. {0} gets replaced with the attempted username and must be included in your translation.,,,I'm sorry but we couldn't identify authentication options for '{0}'.
