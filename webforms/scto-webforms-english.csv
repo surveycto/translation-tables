@@ -149,7 +149,7 @@ web.forms.page.filling.unknown.field.type.error.not.supported,"The type of the f
 web.forms.page.filling.video.select.file.button,Select video file,The button label in a 'video' field type.,,
 web.forms.page.forms.header,Choose a blank form to fill out:,The heading text at the top of the 'fill blank form' page.,,
 web.forms.page.forms.title,Fill blank form,The page title of the 'fill blank form' page.,,
-web.forms.page.maim.delete.saved.form.button,Delete saved form,The button label on the main menu page (only available to logged-in users).,,
+web.forms.page.main.delete.saved.form.button,Delete saved form,The button label on the main menu page (only available to logged-in users).,,
 web.forms.page.main.download.app.button,Download app,The button label on the main menu page.,,
 web.forms.page.main.edit.saved.form.button,Edit saved form,The button label on the main menu page (only available to logged-in users).,,
 web.forms.page.main.fill.blank.form.button,Fill blank form,The button label on the main menu page for logged-in users to get to the 'fill blank form' page.,,
