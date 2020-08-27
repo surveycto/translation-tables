@@ -134,7 +134,6 @@ web.forms.page.filling.unknown.field.type.error.not.supported,"Le type du champ 
 web.forms.page.filling.video.select.file.button,"Sélectionner un fichier vidéo","The button label in a 'video' field type.",,,"Select video file"
 web.forms.page.forms.header,"Choisir un formulaire vierge à remplir:","The heading text at the top of the 'fill blank form' page.",,,"Choose a blank form to fill out:"
 web.forms.page.forms.title,"Remplir le formulaire vierge","The page title of the 'fill blank form' page.",,,"Fill blank form"
-web.forms.page.maim.delete.saved.form.button,"Supprimer le formulaire enregistré","The button label on the main menu page (only available to logged-in users).",,,"Delete saved form"
 web.forms.page.main.download.app.button,"Télécharger l'appli","The button label on the main menu page.",,,"Download app"
 web.forms.page.main.edit.saved.form.button,"Modifier le formulaire enregistré","The button label on the main menu page (only available to logged-in users).",,,"Edit saved form"
 web.forms.page.main.fill.blank.form.button,"Remplir le formulaire vierge","The button label on the main menu page for logged-in users to get to the 'fill blank form' page.",,,"Fill blank form"
