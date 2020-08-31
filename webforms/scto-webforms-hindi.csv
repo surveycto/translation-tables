@@ -144,6 +144,7 @@ web.forms.page.shared.form.delete.button,हटाएं,"The button label for d
 web.forms.page.shared.form.fill.out,भरें,"The button label for filling out a form from any of the main menu sub-pages.",,,"Fill out"
 web.forms.page.shared.form.resume.button,"पुनः शुरू करें","The button label for resuming a form from the 'edit saved form' page (only available to logged-in users).",,,Resume
 web.forms.page.shared.form.title,शीर्षक,,,,Title
+Term,Translation,Context,Reference,Comment,Reference translation
 web.forms.page.shared.no.forms.msg,"कोई इंस्टैंस नहीं हैं।","The message when there are no saved forms on any of the main menu pages (only available to logged-in users).",,,"There are no instances."
 web.forms.page.shared.return.to.main.page.button,"मुख्य मेनू पर लौटें","The button label for returning to the main menu when you are on any of the main menu sub-pages.",,,"Return to main menu"
 web.forms.page.filling.date.months.april,अप्रैल,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,April
