@@ -1,168 +1,185 @@
 Term,Translation,Context,Reference,Comment,Reference translation
-commons.learn.more,,Put anywhere the user can learn more by clicking on a link.,,,Learn more...
-commons.powered.by.surveycto,,"SurveyCTO branding. {0} gets replaced by ""SurveyCTO"" and must be included in your translation.",,,Powered by {0}
-web.forms.page.delete.instances.confirmation.message,,"Text to confirm that the user wants to delete a filled-out form (i.e., a submission).",,,Are you sure you want to delete this form?
-web.forms.page.delete.instances.confirmation.negative.button,,"Button to confirm that the user does NOT want to delete a filled-out form (i.e., to cancel deleting a submission).",,,Do not delete
-web.forms.page.delete.instances.confirmation.positive.button,,"Button to confirm that the user DOES want to delete a filled-out form (i.e., a submission).",,,"Yes, delete it"
-web.forms.page.delete.instances.confirmation.title,,"Title of the window to confirm that the user wants to delete a filled-out form (i.e., a submission).",,,Confirm deletion
-web.forms.page.delete.instances.header,,Header for list of filled-out forms that can be deleted.,,,Choose a form to delete:
-web.forms.page.delete.instances.title,,Title for list of filled-out forms that can be deleted.,,,Delete saved form
-web.forms.page.edit.instances.header,,Header for list of saved forms that can be resumed.,,,Choose a saved form to resume editing:
-web.forms.page.edit.instances.title,,Title for list of saved forms that can be resumed.,,,Saved forms list
-web.forms.page.filling.audio.select.file.button,,Button for selecting an audio file.,,,Select audio file
-web.forms.page.filling.banner.tooltip,,Information about the current form that appears if the user hovers their mouse over the form title in the upper-left. {0} gets replaced with the current form title. {1} gets replaced with the form version. Both must be included in your translation.,,,{0} (version: {1})
-web.forms.page.filling.binary.error.large.file,,Error message that appears when the user tries to attach a file that is too large. {0} gets replaced with the max file size (in megabytes) and must be included in your translation.,,,"I'm sorry, but you cannot attach a file that is more than {0}MB in size. Please attach a smaller file before continuing."
-web.forms.page.filling.date.months.april,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,April
-web.forms.page.filling.date.months.august,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,August
-web.forms.page.filling.date.months.december,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,December
-web.forms.page.filling.date.months.february,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,February
-web.forms.page.filling.date.months.january,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,January
-web.forms.page.filling.date.months.july,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,July
-web.forms.page.filling.date.months.june,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,June
-web.forms.page.filling.date.months.march,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,March
-web.forms.page.filling.date.months.may,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,May
-web.forms.page.filling.date.months.november,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,November
-web.forms.page.filling.date.months.october,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,October
-web.forms.page.filling.date.months.september,,This is the month label used in date and datetime fields with the 'no-calendar' appearance.,,,September
-web.forms.page.filling.error.not.supported.web,,"This is the error message that is displayed when the current field contains a feature that is unsupported in web forms, but may be supported in Collect for Android or Collect for iOS. {0} will be replaced with the specific feature name that is unsupported, and must be included in your translation.",,,"Sorry, there was an error displaying this field. The following feature is not supported in web forms: {0}. The current field may be using a fallback appearance to allow you to continue filling out this form. For best results, use SurveyCTO Collect on an Android device to fill this form out."
-web.forms.page.filling.file.current.selection.label,,This is the text that appears immediately before the selected file name once you've made a selection in a file field.,,,Current selection
-web.forms.page.filling.file.select.different.button,,This is the button label once you've made a selection in a file field.,,,Select a different file
-web.forms.page.filling.file.select.file.button,,This is the default button label in a file field before you've made a selection.,,,Select a file
-web.forms.page.filling.geopoint.accuracy,,This is the text that appears immediately before the accuracy value once you've recorded your location in a geo field.,,,Accuracy
-web.forms.page.filling.geopoint.altitude,,This is the text that appears immediately before the altitude value once you've recorded your location in a geo field.,,,Altitude
-web.forms.page.filling.geopoint.error.geolocation.not.supported,,Error message that appears when a geopoint field is shown in a browser that does not support location services.,,,Geolocation is not supported by this browser.
-web.forms.page.filling.geopoint.error.not.available,,Error message that appears when a geopoint field is shown in a browser and location services are not available (possibly because the user has disabled location services or declined to give permission).,,,Location information is not available.
-web.forms.page.filling.geopoint.error.permission.denied,,Error message that appears when a geopoint field is shown in a browser and location services are not available because of security settings or the user has declined to give permission.,,,Cannot identify location (permission denied). You may need to change your browser's security settings to allow this website to access your location.
-web.forms.page.filling.geopoint.error.request.timeout,,Error message that appears when a geopoint field is shown in a browser and the system times out before getting a valid location.,,,The request to get user location timed out.
-web.forms.page.filling.geopoint.error.unknown,,Error message that appears when a geopoint field is shown in a browser and some unknown error prevents the system from reading the current location.,,,An unknown error occurred.
-web.forms.page.filling.geopoint.latitude,,This is the text that appears immediately before the latitude value once you've recorded your location in a geo field.,,,Latitude
-web.forms.page.filling.geopoint.longitude,,This is the text that appears immediately before the longitude value once you've recorded your location in a geo field.,,,Longitude
-web.forms.page.filling.geopoint.record.location.button,,The primary button label in a geo field before you've recorded a location.,,,Record location
-web.forms.page.filling.geopoint.replace.location.button,,This is the button label once you've recorded a location in a geo field.,,,Replace location
-web.forms.page.filling.go.to.button,,The label for the 'go to' button.,,,Go to
-web.forms.page.filling.go.to.UI.close,,The label for the red button in the 'go to' screen used to exit the 'go to' screen.,,,Close
-web.forms.page.filling.go.to.UI.go.there,,The label for the button next to each field in the 'go to' screen.,,,Go there
-web.forms.page.filling.go.to.UI.go.to.end,,The button label in the 'go to' screen for progressing to the end of the form.,,,Go to end
-web.forms.page.filling.go.to.UI.go.to.start,,The button label in the 'go to' screen for returning to the beginning of the form. ,,,Go to start
-web.forms.page.filling.go.to.UI.go.up,,The button label in the 'go to' UI for when you are currently within an instance of a repeat group and you would like to 'go up' a level.,,,Go up
-web.forms.page.filling.go.to.UI.resume,,"When you return to a saved form to continue filling it out, this is the button label in the 'go to' UI for resuming where you left off.",,,Resume
-web.forms.page.filling.image.annotate.hint,,This is the message that appears above the buttons when filling out an image field with the 'annotate' appearance in a web form. ,,,Please upload an annotated image.
-web.forms.page.filling.image.draw.hint,,This is the message that appears above the buttons when filling out an image field with the 'draw' appearance in a web form. ,,,Please upload a drawn image.
-web.forms.page.filling.image.select.file.button,,Button label in an image field for selecting an existing image. ,,,Select image
-web.forms.page.filling.image.signature.hint,,This is the message that appears above the buttons when filling out an image field with the 'signature' appearance in a web form. ,,,Please upload a file with your signature.
-web.forms.page.filling.image.take.picture.button,,Button label in an image field for taking a new picture.,,,Take picture
-web.forms.page.filling.input.field.placeholder.label,,"This is the placeholder text for the input boxes in text, decimal, and integer fields. ",,,Your answer here...
-web.forms.page.filling.integer.error.not.integer,,The error message when you try to enter a non-integer into an integer field.,,,Please enter an integer only.
-web.forms.page.filling.intro.text,,"Default message that appears at the beginning of a form. The <i>, </i>, and <br/> codes are HTML formatting (the beginning and end of italics and linebreaks, respectively) and should be kept in your translation unless you are comfortable hand-coding HTML.",,,"You are at the start of a form. When ready to begin, please click the <i>Next</i> button below or to the right.<br/><br/>At the end, you will have the opportunity to submit your responses."
-web.forms.page.filling.last.screen.hint,,This is the hint that appears on the last screen of a form for anonymous users (users who are not logged in to your server). It replaces the options to name and finalize the form.,,,Click the button below to submit this form as it is currently filled out.
-web.forms.page.filling.last.screen.mark.finalized.checkbox,,The checkbox label when a logged-in user reaches the end of a form.,,,Mark form as finalized
-web.forms.page.filling.last.screen.name.label,,The input box label when a logged-in user reaches the end of a form.,,,Name this form
-web.forms.page.filling.last.screen.save.exit.button,,The button label for logged-in users when they reach the end of a form. ,,,Save Form and Exit
-web.forms.page.filling.last.screen.submit.button,,The button label for anonymous users (users who are not logged in to your server) when they reach the end of a form. ,,,Submit Form
-web.forms.page.filling.last.screen.title,,This is the headline on the last screen of a form. {0} gets replaced with the current form title and must be included in your translation.,,,You are at the end of {0}
-web.forms.page.filling.login.panel.loggedin.as,,"This appears in the user dropdown menu in the top right for logged-in users, and is followed by the user's email address.",,,You are currently logged in as
-web.forms.page.filling.login.panel.login.and.continue.btn,,The button label in the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).,,,Log in and continue
-web.forms.page.filling.login.panel.login.btn,,,,,Log in
-web.forms.page.filling.login.panel.logout.btn,,The button label in the user dropdown menu in the top right for logged-in users. ,,,Log out
-web.forms.page.filling.login.panel.not.loggedin.long,,This appears in the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).,,,You are not currently logged in
-web.forms.page.filling.login.panel.not.loggedin.short,,This is the label for the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).,,,Not logged in
-web.forms.page.filling.menu.add.comment,,"If your form contains a comments field, this is the menu option label to leave a comment. ",,,Add comment
-web.forms.page.filling.menu.appearance,,This is the dropdown menu label to change the appearance style (only available to logged-in users).,,,Appearance
-web.forms.page.filling.menu.appearance.default,,Label in the Appearance dropdown menu for the 'default' appearance style.,,,Default
-web.forms.page.filling.menu.appearance.small,,Label in the Appearance dropdown menu for the 'small' appearance style.,,,Small
-web.forms.page.filling.menu.appearance.small.wide,,Label in the Appearance dropdown menu for the 'small wide' appearance style.,,,Small wide
-web.forms.page.filling.menu.appearance.wide,,Label in the Appearance dropdown menu for the 'wide' appearance style.,,,Wide
-web.forms.page.filling.menu.clear.responses,,The option in the 'options' dropdown menu to remove your response from the current field. ,,,Clear responses
-web.forms.page.filling.menu.exit.to.main.menu,,Logged-in users will see this option in the 'options' dropdown menu.,,,Exit to main menu
-web.forms.page.filling.menu.options,,The label for the 'options' dropdown menu.,,,Options
-web.forms.page.filling.menu.remove.current.repeat.instance,,"In a repeat group, this option will be available in the 'options' dropdown menu.",,,Remove current repeat instance
-web.forms.page.filling.menu.save.form,,Logged-in users will see this option in the toolbar.,,,Save form
-web.forms.page.filling.menu.skip.to.next,,Logged-in users will see this option in the 'options' dropdown menu.,,,Skip to next
-web.forms.page.filling.menu.start.over,,This is the option in the 'options' dropdown menu to discard all the current responses and start over from a blank form.,,,Start over
-web.forms.page.filling.menu.validate.form,,Logged-in users will see this option in the 'options' dropdown menu.,,,Validate form
-web.forms.page.filling.nav.end,,The tooltip that appears when you hover over the circle 'go to end' button.,,,Go to end
-web.forms.page.filling.nav.next,,The tooltip that appears when you hover over the circle 'next' button.,,,Next
-web.forms.page.filling.nav.previous,,The tooltip that appears when you hover over the circle  'previous' button.,,,Previous
-web.forms.page.filling.nav.start,,The tooltip that appears when you hover over the circle 'go to start' button. ,,,Go to start
-web.forms.page.filling.next.button,,The button label for the blue 'next' button at the bottom right. ,,,Next
-web.forms.page.filling.numerical.error.not.numeric,,Error message that appears when the user is prompted for a decimal value and enters something invalid.,,,Please enter a number only.
-web.forms.page.filling.popups.add.comment.intro,,This is the field label in the pop-up to add a comment.,,,Please type your comment in the field below:
-web.forms.page.filling.popups.add.comment.save.button,,This is the button label in the pop-up to save a comment.,,,Save comment
-web.forms.page.filling.popups.add.comment.title,,This is the title of the pop-up to add a comment.,,,Add comment
-web.forms.page.filling.popups.add.new.group.message,,{0} gets replaced with the repeat group label and must be included in your translation.,,,"Add a new ""{0}"" group?"
-web.forms.page.filling.popups.add.new.group.negative.button,,The button label to not add a new group in the 'add new group' pop-up for repeat groups.,,,Do not add
-web.forms.page.filling.popups.add.new.group.positive.button,,The button label to add a new group in the 'add new group' pop-up for repeat groups.,,,Add group
-web.forms.page.filling.popups.add.new.group.title,,The title of the 'add new group' pop-up for new repeat groups (when there are no existing instances).,,,Add new group?
-web.forms.page.filling.popups.add.one.more.group.message,,This is the message in the pop-up for adding a repeat group when there is already at least one instance. {0} gets replaced with the repeat group label and must be included in your translation.,,,"Add another ""{0}"" group?"
-web.forms.page.filling.popups.add.one.more.group.title,,The title of the 'add new group' pop-up for repeat groups that contain at least one instance already.,,,Add one more group?
-web.forms.page.filling.popups.cancel.button,,Generic button label for all 'cancel' buttons in pop-ups.,,,Cancel
-web.forms.page.filling.popups.capture.media.done.button,,The button label to save the current snapshot in the 'capture media' pop-up.,,,Done
-web.forms.page.filling.popups.capture.media.take.button,,The button label to take a picture in the 'capture media' pop-up.,,,Take snapshot
-web.forms.page.filling.popups.capture.media.title,,The title of the 'capture media' pop-up.,,,Capture media
-web.forms.page.filling.popups.clear.responses.prompt.button,,The button label to clear all responses in the confirmation pop-up when you attempt to clear responses. ,,,Clear all responses
-web.forms.page.filling.popups.clear.responses.prompt.message,,The message in the confirmation pop-up when you attempt to clear responses. ,,,Clear all responses on this current page?
-web.forms.page.filling.popups.clear.responses.prompt.title,,The title of the confirmation pop-up when you attempt to clear responses. ,,,Confirm
-web.forms.page.filling.popups.close.button,,Generic button label for all 'close' buttons in pop-ups.,,,Close
-web.forms.page.filling.popups.confirm.discard.prompt.button,,This is the button label to confirm exiting without saving in the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.,,,"Yes, I'm sure!"
-web.forms.page.filling.popups.confirm.discard.prompt.message,,This is the message in the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.,,,This will discard any new data that you have entered. Are you sure?
-web.forms.page.filling.popups.confirm.discard.prompt.title,,This is the title of the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.,,,Confirm exit
-web.forms.page.filling.popups.confirm.title,,Generic pop-up title for confirmation pop-ups.,,,Confirm
-web.forms.page.filling.popups.error.title,,Generic title of the pop-up window shown when an error message appears to the user and a more specific window title is not available.,,,Error
-web.forms.page.filling.popups.exit.form.prompt.message,,This is the message in the pop-up when logged-in users attempt to exit to main menu.,,,"Do you want to save your form before exiting, or discard all changes that you've made?"
-web.forms.page.filling.popups.exit.form.prompt.negative.button,,This is the button label to discard changes in the pop-up when logged-in users attempt to exit to main menu.,,,Discard Changes
-web.forms.page.filling.popups.exit.form.prompt.positive.button,,This is the button label to save changes in the pop-up when logged-in users attempt to exit to main menu.,,,Save Changes
-web.forms.page.filling.popups.exit.form.prompt.title,,This is the title of the pop-up when logged-in users attempt to exit to main menu.,,,Confirm exit
-web.forms.page.filling.popups.form.saved.confirmation.message,,This is the message in the confirmation pop-up when a logged-in user saves their form successfully.,,,Form successfully saved!
-web.forms.page.filling.popups.form.validated.confirmation.message,,This is the message in the confirmation pop-up when a logged-in user validates their form successfully.,,,Validation succeeded!
-web.forms.page.filling.popups.form.validated.go.to.end.button,,This is the button label in the confirmation pop-up when a logged-in user validates their form successfully.,,,Go to end
-web.forms.page.filling.popups.no.cookies,,The warning message that appears when a user has disabled cookies.,,,"We have detected that you have disabled ""cookie"" support for this website. You can do that, but please be aware that, without cookies to track your anonymous identity, you will not be able to resume a partially-filled form should your session be interrupted for some reason.<br/><br/><b>Also, do not copy the URL you are using to fill out this survey and share it with anybody else. If you do, they can see and resume your session.</b>"
-web.forms.page.filling.popups.remove.instance.prompt.button,,This is the button label in the confirmation pop-up when you try to remove the current repeat instance.,,,"Yes, remove it"
-web.forms.page.filling.popups.remove.instance.prompt.message,,This is the title of the confirmation pop-up when you try to remove the current repeat instance.,,,Confirm group removal
-web.forms.page.filling.popups.remove.instance.prompt.title,,This is the message in the confirmation pop-up when you try to remove the current repeat instance. {0} gets replaced by the repeat group label and instance number and must be included in your translation.,,,"Remove group ""{0}"" and all of its sub-groups?"
-web.forms.page.filling.popups.resume.prompt.message,,This is the message in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. {0} gets replaced with the date and time of the last form session and must be included in your translation.,,,"You have already started filling out this form and last updated it on {0}. Resume from where you left off, or discard that version and start again? (If you choose to start again, the old version will be discarded and there is no undo.)"
-web.forms.page.filling.popups.resume.prompt.negative.button,,This is the button label to discard the old form in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ,,,Discard
-web.forms.page.filling.popups.resume.prompt.positive.button,,This is the button label to resume filling out the old form in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ,,,Resume
-web.forms.page.filling.popups.resume.prompt.title,,This is the title of the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ,,,Un-finished form found
-web.forms.page.filling.popups.resume.different.caseid.message,,"Whenever a user visits a form that they had already started filling out, SurveyCTO attempts to resume the partially-filled form from memory. If the partially-filled form has a different case ID than the current URL, a pop-up will appear with this message asking which form they wish to fill out. {0} will be replaced by the case ID from the current URL, and {1} will be replaced by the case ID from memory. Both {0} and {1} must be included in your translation.",,,"You are about to start a new form for case ID ""<b>{0}</b>"". We noticed that you haven't finished filling out the form for case ID ""<b>{1}</b>"". Do you want to resume filling out that form, or start a new one?"
-web.forms.page.filling.popups.resume.different.caseid.negative.button,,The button label to continue filling out the partially-filled form from memory. {0} will be replaced by the case ID from memory and must be included in your translation.,,,Resume {0}
-web.forms.page.filling.popups.resume.different.caseid.positive.button,,The button label to start a brand new form with a new case iD. {0} will be replaced by the case ID from the current URL and must be included in your translation.,,,Start {0}
-web.forms.page.filling.popups.resume.different.caseid.title,,The title of the pop-up message prompting which case ID to use.,,,Warning
-web.forms.page.filling.popups.start.over.prompt.button,,This is the button label to discard changes in the pop-up when you attempt to start over.,,,Discard Changes
-web.forms.page.filling.popups.start.over.prompt.message,,This is the message in the pop-up when you attempt to start over.,,,Discard all changes and start over with a blank form?
-web.forms.page.filling.popups.start.over.prompt.title,,This is the title of the pop-up when you attempt to start over.,,,Confirm exit
-web.forms.page.filling.popups.success.title,,Generic title of 'success' type pop-ups.,,,Success
-web.forms.page.filling.popups.warning.title,,Generic title of 'warning' type pop-ups. ,,,Warning
-web.forms.page.filling.repeat.table.add.row.button,,,,,Add row
-web.forms.page.filling.repeat.table.back.level.button,,Tooltip when you hover over the arrow button in the top left of the table summary in a repeat group with the 'table' or 'table-labeled' appearance.,,,Back one level
-web.forms.page.filling.repeat.table.label,,The heading just above the summary table in a repeat group with the 'table' or 'table-labeled' appearance.,,,Summary
-web.forms.page.filling.select1.minimal.label,,The first option in the dropdown in a select_one field with the 'minimal' appearance.,,,Select one answer
-web.forms.page.filling.selectx.minimal.remove.response.button.label,,The button label to remove responses in a select_multiple field with the 'minimal' appearance.,,,Remove response
-web.forms.page.filling.text.error.numbers.appearance.invalid.input,,"Error message that appears when the user enters one or more invalid characters into a field that uses the ""numbers"" appearance for showing the numeric keypad on mobile devices.",,,"Sorry, you may only enter numeric digits, minus symbols (-), plus symbols (+), commas (,), dots(.), and spaces ( )."
-web.forms.page.filling.text.error.numbers.phone.appearance.invalid.input,,"Error message that appears when the user enters one or more invalid characters into a field that uses the ""numbers_phone"" appearance for showing the phone-number keypad on mobile devices.",,,"Sorry, you may only enter phone digits, minus symbols (-), plus symbols (+), dots (.), hashtags (#), asterisks (*), and spaces( )."
-web.forms.page.filling.text.error.url.appearance.blank,,"Error message that appears when the user clicks to open the URL on a field with the ""url"" appearance but there is no URL to open.",,,No url is set.
-web.forms.page.filling.text.url.appearance.button,,,,,Open Url
-web.forms.page.filling.thankyou.not.submitted.text,,The message after you 'submit' a form in the test view of the Form Designer but choose to discard the data.,,,Thank you! No data was submitted.
-web.forms.page.filling.thankyou.not.submitted.title,,The title after you 'submit' a form in the test view of the Form Designer but choose to discard the data.,,,Form was not submitted
-web.forms.page.filling.thankyou.submitted.text,,The message after you submit a form.,,,Thank you! Your form has been successfully submitted.
-web.forms.page.filling.thankyou.submitted.title,,The title after you submit a form.,,,Form successfully submitted
-web.forms.page.filling.unknown.field.type.error.not.supported,,Error message that appears when a field with an unknown field type appears in a web form. {0} gets replaced with the field label and must be included in your translation.,,,"The type of the field '{0}' cannot be displayed in the web interface, so a text field will be used instead."
-web.forms.page.filling.video.select.file.button,,The button label in a 'video' field type.,,,Select video file
-web.forms.page.forms.header,,The heading text at the top of the 'fill blank form' page.,,,Choose a blank form to fill out:
-web.forms.page.forms.title,,The page title of the 'fill blank form' page.,,,Fill blank form
-web.forms.page.main.delete.saved.form.button,,The button label on the main menu page (only available to logged-in users).,,,Delete saved form
-web.forms.page.main.download.app.button,,The button label on the main menu page.,,,Download app
-web.forms.page.main.edit.saved.form.button,,The button label on the main menu page (only available to logged-in users).,,,Edit saved form
-web.forms.page.main.fill.blank.form.button,,The button label on the main menu page for logged-in users to get to the 'fill blank form' page.,,,Fill blank form
-web.forms.page.main.manage.cases.button,,The button label on the main menu page (only available to logged-in users).,,,Manage cases
-web.forms.page.main.sub.title,,The page subheading on the main menu page (only visible to logged-in users).,,,"Secure, high quality data collection"
-web.forms.page.main.title,,The page title of the main menu page (only visible to logged-in users).,,,Main menu
-web.forms.page.shared.form.delete.button,,The button label for deleting a form on the 'delete saved form' page (only available to logged-in users).,,,Delete
-web.forms.page.shared.form.fill.out,,The button label for filling out a form from any of the main menu sub-pages.,,,Fill out
-web.forms.page.shared.form.last.saved,,The label preceding the timestamp on all of the main menu sub-pages (only available to logged-in users).,,,Last saved
-web.forms.page.shared.form.name,,The label preceding the form name on all of the main menu sub-pages for logged-in users.,,,Name
-web.forms.page.shared.form.resume.button,,The button label for resuming a form from the 'edit saved form' page (only available to logged-in users).,,,Resume
-web.forms.page.shared.form.id,,The label preceding the form ID on all of the main menu sub-pages.,,,ID
-web.forms.page.shared.form.title,,,,,Title
-web.forms.page.shared.form.version,,The label preceding the form version on all the main menu sub-pages.,,,Version
-web.forms.page.shared.no.forms.msg,,The message when there are no saved forms on any of the main menu pages (only available to logged-in users).,,,There are no instances.
-web.forms.page.shared.return.to.main.page.button,,The button label for returning to the main menu when you are on any of the main menu sub-pages.,,,Return to main menu
+commons.learn.more,"Saiba mais...","Put anywhere the user can learn more by clicking on a link.",,,"Learn more..."
+commons.powered.by.surveycto,"Feito por {0}","SurveyCTO branding. {0} gets replaced by ""SurveyCTO"" and must be included in your translation.",,,"Powered by {0}"
+web.forms.page.delete.instances.confirmation.message,"Tem certeza que deseja excluir este formulário?","Text to confirm that the user wants to delete a filled-out form (i.e., a submission).",,,"Are you sure you want to delete this form?"
+web.forms.page.delete.instances.confirmation.negative.button,"Não excluir","Button to confirm that the user does NOT want to delete a filled-out form (i.e., to cancel deleting a submission).",,,"Do not delete"
+web.forms.page.delete.instances.confirmation.positive.button,"Sim, excluir","Button to confirm that the user DOES want to delete a filled-out form (i.e., a submission).",,,"Yes, delete it"
+web.forms.page.delete.instances.confirmation.title,"Confirmar exclusão","Title of the window to confirm that the user wants to delete a filled-out form (i.e., a submission).",,,"Confirm deletion"
+web.forms.page.delete.instances.header,"Escolha um formulário para excluir:","Header for list of filled-out forms that can be deleted.",,,"Choose a form to delete:"
+web.forms.page.delete.instances.title,"Excluir formulário salvo","Title for list of filled-out forms that can be deleted.",,,"Delete saved form"
+web.forms.page.edit.instances.header,"Escolha um formulário salvo para editar:","Header for list of saved forms that can be resumed.",,,"Choose a saved form to resume editing:"
+web.forms.page.edit.instances.title,"Lista de formulários salvos","Title for list of saved forms that can be resumed.",,,"Saved forms list"
+web.forms.page.filling.audio.select.file.button,"Selecione um arquivo de áudio","Button for selecting an audio file.",,,"Select audio file"
+web.forms.page.filling.banner.tooltip,"{0} (versão: {1})","Information about the current form that appears if the user hovers their mouse over the form title in the upper-left. {0} gets replaced with the current form title. {1} gets replaced with the form version. Both must be included in your translation.",,,"{0} (version: {1})"
+web.forms.page.filling.binary.error.large.file,"Não é possível anexar um arquivo com tamanho superior a {0}MB. Por favor, anexe um arquivo menor antes de continuar.","Error message that appears when the user tries to attach a file that is too large. {0} gets replaced with the max file size (in megabytes) and must be included in your translation.",,,"I'm sorry, but you cannot attach a file that is more than {0}MB in size. Please attach a smaller file before continuing."
+web.forms.page.filling.file.current.selection.label,"Seleção atual","This is the text that appears immediately before the selected file name once you've made a selection in a file field.",,,"Current selection"
+web.forms.page.filling.file.select.different.button,"Selecione um arquivo diferente","This is the button label once you've made a selection in a file field.",,,"Select a different file"
+web.forms.page.filling.file.select.file.button,"Selecione um arquivo","This is the default button label in a file field before you've made a selection.",,,"Select a file"
+web.forms.page.filling.geopoint.accuracy,Precisão,"This is the text that appears immediately before the accuracy value once you've recorded your location in a geo field.",,,Accuracy
+web.forms.page.filling.geopoint.altitude,Altitude,"This is the text that appears immediately before the altitude value once you've recorded your location in a geo field.",,,Altitude
+web.forms.page.filling.geopoint.error.geolocation.not.supported,"Geolocalização não suportada por este browser.","Error message that appears when a geopoint field is shown in a browser that does not support location services.",,,"Geolocation is not supported by this browser."
+web.forms.page.filling.geopoint.error.not.available,"Dados sobre localização não disponíveis.","Error message that appears when a geopoint field is shown in a browser and location services are not available (possibly because the user has disabled location services or declined to give permission).",,,"Location information is not available."
+web.forms.page.filling.geopoint.error.permission.denied,"Não foi possível identificar a sua localização (permissão negada). Talvez você precise alterar as definições de segurança do seu browser para permitir que este website tenha acesso à sua localização.","Error message that appears when a geopoint field is shown in a browser and location services are not available because of security settings or the user has declined to give permission.",,,"Cannot identify location (permission denied). You may need to change your browser's security settings to allow this website to access your location."
+web.forms.page.filling.geopoint.error.request.timeout,"O tempo para determinar a sua localização expirou.","Error message that appears when a geopoint field is shown in a browser and the system times out before getting a valid location.",,,"The request to get user location timed out."
+web.forms.page.filling.geopoint.error.unknown,"Ocorreu um erro desconhecido.","Error message that appears when a geopoint field is shown in a browser and some unknown error prevents the system from reading the current location.",,,"An unknown error occurred."
+web.forms.page.filling.geopoint.latitude,Latitude,"This is the text that appears immediately before the latitude value once you've recorded your location in a geo field.",,,Latitude
+web.forms.page.filling.geopoint.longitude,Longitude,"This is the text that appears immediately before the longitude value once you've recorded your location in a geo field.",,,Longitude
+web.forms.page.filling.geopoint.record.location.button,"Registrar localização","The primary button label in a geo field before you've recorded a location.",,,"Record location"
+web.forms.page.filling.geopoint.replace.location.button,"Substituir localização","This is the button label once you've recorded a location in a geo field.",,,"Replace location"
+web.forms.page.filling.go.to.button,"Ir para","The label for the 'go to' button.",,,"Go to"
+web.forms.page.filling.go.to.UI.close,Fechar,"The label for the red button in the 'go to' screen used to exit the 'go to' screen.",,,Close
+web.forms.page.filling.go.to.UI.go.there,"Abrir campo","The label for the button next to each field in the 'go to' screen.",,,"Go there"
+web.forms.page.filling.go.to.UI.go.to.end,"Ir para o final","The button label in the 'go to' screen for progressing to the end of the form.",,,"Go to end"
+web.forms.page.filling.go.to.UI.go.to.start,"Ir para o início","The button label in the 'go to' screen for returning to the beginning of the form. ",,,"Go to start"
+web.forms.page.filling.go.to.UI.go.up,"Ir para cima","The button label in the 'go to' UI for when you are currently within an instance of a repeat group and you would like to 'go up' a level.",,,"Go up"
+web.forms.page.filling.go.to.UI.resume,Retomar,"When you return to a saved form to continue filling it out, this is the button label in the 'go to' UI for resuming where you left off.",,,Resume
+web.forms.page.filling.image.annotate.hint,"Faça o upload de uma imagem com anotações.","This is the message that appears above the buttons when filling out an image field with the 'annotate' appearance in a web form. ",,,"Please upload an annotated image."
+web.forms.page.filling.image.draw.hint,"Faça o upload de um desenho.","This is the message that appears above the buttons when filling out an image field with the 'draw' appearance in a web form. ",,,"Please upload a drawn image."
+web.forms.page.filling.image.select.file.button,"Selecione uma imagem","Button label in an image field for selecting an existing image. ",,,"Select image"
+web.forms.page.filling.image.signature.hint,"Faça o upload da sua assinatura.","This is the message that appears above the buttons when filling out an image field with the 'signature' appearance in a web form. ",,,"Please upload a file with your signature."
+web.forms.page.filling.image.take.picture.button,"Tire uma foto","Button label in an image field for taking a new picture.",,,"Take picture"
+web.forms.page.filling.input.field.placeholder.label,"Insira a sua resposta aqui...","This is the placeholder text for the input boxes in text, decimal, and integer fields. ",,,"Your answer here..."
+web.forms.page.filling.integer.error.not.integer,"Insira apenas um número inteiro.","The error message when you try to enter a non-integer into an integer field.",,,"Please enter an integer only."
+web.forms.page.filling.intro.text,"Início do formulário. Assim que estiver pronto para começar, clique no botão <i>Seguinte</i> abaixo ou à sua direita.<br/><br/> No final, você poderá enviar as suas respostas.","Default message that appears at the beginning of a form. The <i>, </i>, and <br/> codes are HTML formatting (the beginning and end of italics and linebreaks, respectively) and should be kept in your translation unless you are comfortable hand-coding HTML.",,,"You are at the start of a form. When ready to begin, please click the <i>Next</i> button below or to the right.<br/><br/>At the end, you will have the opportunity to submit your responses."
+web.forms.page.filling.last.screen.hint,"Clique no botão abaixo para enviar este formulário com os dados preenchidos.","This is the hint that appears on the last screen of a form for anonymous users (users who are not logged in to your server). It replaces the options to name and finalize the form.",,,"Click the button below to submit this form as it is currently filled out."
+web.forms.page.filling.last.screen.mark.finalized.checkbox,"Marcar formulário como finalizado","The checkbox label when a logged-in user reaches the end of a form.",,,"Mark form as finalized"
+web.forms.page.filling.last.screen.name.label,"Insira um nome para este formulário","The input box label when a logged-in user reaches the end of a form.",,,"Name this form"
+web.forms.page.filling.last.screen.save.exit.button,"Salvar formulário e sair","The button label for logged-in users when they reach the end of a form. ",,,"Save Form and Exit"
+web.forms.page.filling.last.screen.submit.button,"Enviar formulário","The button label for anonymous users (users who are not logged in to your server) when they reach the end of a form. ",,,"Submit Form"
+web.forms.page.filling.last.screen.title,"Final do {0}","This is the headline on the last screen of a form. {0} gets replaced with the current form title and must be included in your translation.",,,"You are at the end of {0}"
+web.forms.page.filling.login.panel.loggedin.as,"Sessão iniciada como","This appears in the user dropdown menu in the top right for logged-in users, and is followed by the user's email address.",,,"You are currently logged in as"
+web.forms.page.filling.login.panel.login.and.continue.btn,"Iniciar sessão e continuar","The button label in the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).",,,"Log in and continue"
+web.forms.page.filling.login.panel.login.btn,"Iniciar sessão",,,,"Log in"
+web.forms.page.filling.login.panel.logout.btn,"Terminar sessão","The button label in the user dropdown menu in the top right for logged-in users. ",,,"Log out"
+web.forms.page.filling.login.panel.not.loggedin.long,"Você não tem uma sessão ativa","This appears in the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).",,,"You are not currently logged in"
+web.forms.page.filling.login.panel.not.loggedin.short,Desconectado,"This is the label for the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).",,,"Not logged in"
+web.forms.page.filling.menu.add.comment,"Adicionar comentário","If your form contains a comments field, this is the menu option label to leave a comment. ",,,"Add comment"
+web.forms.page.filling.menu.appearance,Aparência,"This is the dropdown menu label to change the appearance style (only available to logged-in users).",,,Appearance
+web.forms.page.filling.menu.appearance.default,Predefinida,"Label in the Appearance dropdown menu for the 'default' appearance style.",,,Default
+web.forms.page.filling.menu.appearance.small,Compacto,"Label in the Appearance dropdown menu for the 'small' appearance style.",,,Small
+web.forms.page.filling.menu.appearance.small.wide,Médio,"Label in the Appearance dropdown menu for the 'small wide' appearance style.",,,"Small wide"
+web.forms.page.filling.menu.appearance.wide,Grande,"Label in the Appearance dropdown menu for the 'wide' appearance style.",,,Wide
+web.forms.page.filling.menu.clear.responses,"Apagar respostas","The option in the 'options' dropdown menu to remove your response from the current field. ",,,"Clear responses"
+web.forms.page.filling.menu.exit.to.main.menu,"Sair para o menu principal","Logged-in users will see this option in the 'options' dropdown menu.",,,"Exit to main menu"
+web.forms.page.filling.menu.options,Opções,"The label for the 'options' dropdown menu.",,,Options
+web.forms.page.filling.menu.remove.current.repeat.instance,"Remover repetição atual","In a repeat group, this option will be available in the 'options' dropdown menu.",,,"Remove current repeat instance"
+web.forms.page.filling.menu.save.form,"Salvar formulário","Logged-in users will see this option in the toolbar.",,,"Save form"
+web.forms.page.filling.menu.skip.to.next,Pular,"Logged-in users will see this option in the 'options' dropdown menu.",,,"Skip to next"
+web.forms.page.filling.menu.start.over,Recomeçar,"This is the option in the 'options' dropdown menu to discard all the current responses and start over from a blank form.",,,"Start over"
+web.forms.page.filling.menu.validate.form,"Validar formulário","Logged-in users will see this option in the 'options' dropdown menu.",,,"Validate form"
+web.forms.page.filling.nav.end,"Ir para o final","The tooltip that appears when you hover over the circle 'go to end' button.",,,"Go to end"
+web.forms.page.filling.nav.next,Seguinte,"The tooltip that appears when you hover over the circle 'next' button.",,,Next
+web.forms.page.filling.nav.previous,Anterior,"The tooltip that appears when you hover over the circle  'previous' button.",,,Previous
+web.forms.page.filling.nav.start,"Ir para o início","The tooltip that appears when you hover over the circle 'go to start' button. ",,,"Go to start"
+web.forms.page.filling.next.button,Seguinte,"The button label for the blue 'next' button at the bottom right. ",,,Next
+web.forms.page.filling.numerical.error.not.numeric,"Insira apenas números.","Error message that appears when the user is prompted for a decimal value and enters something invalid.",,,"Please enter a number only."
+web.forms.page.filling.popups.add.comment.intro,"Insira o seu comentário no campo abaixo:","This is the field label in the pop-up to add a comment.",,,"Please type your comment in the field below:"
+web.forms.page.filling.popups.add.comment.save.button,"Salvar comentário","This is the button label in the pop-up to save a comment.",,,"Save comment"
+web.forms.page.filling.popups.add.comment.title,"Adicionar comentário","This is the title of the pop-up to add a comment.",,,"Add comment"
+web.forms.page.filling.popups.add.new.group.message,"Adicionar um novo ""{0}"" grupo?","{0} gets replaced with the repeat group label and must be included in your translation.",,,"Add a new ""{0}"" group?"
+web.forms.page.filling.popups.add.new.group.negative.button,"Não adicionar","The button label to not add a new group in the 'add new group' pop-up for repeat groups.",,,"Do not add"
+web.forms.page.filling.popups.add.new.group.positive.button,"Adicionar grupo","The button label to add a new group in the 'add new group' pop-up for repeat groups.",,,"Add group"
+web.forms.page.filling.popups.add.new.group.title,"Adicionar um novo grupo?","The title of the 'add new group' pop-up for new repeat groups (when there are no existing instances).",,,"Add new group?"
+web.forms.page.filling.popups.add.one.more.group.message,"Adicionar outro grupo ""{0}""?","This is the message in the pop-up for adding a repeat group when there is already at least one instance. {0} gets replaced with the repeat group label and must be included in your translation.",,,"Add another ""{0}"" group?"
+web.forms.page.filling.popups.add.one.more.group.title,"Adicionar outro grupo?","The title of the 'add new group' pop-up for repeat groups that contain at least one instance already.",,,"Add one more group?"
+web.forms.page.filling.popups.cancel.button,Cancelar,"Generic button label for all 'cancel' buttons in pop-ups.",,,Cancel
+web.forms.page.filling.popups.capture.media.done.button,Concluído,"The button label to save the current snapshot in the 'capture media' pop-up.",,,Done
+web.forms.page.filling.popups.capture.media.take.button,Capturar,"The button label to take a picture in the 'capture media' pop-up.",,,"Take snapshot"
+web.forms.page.filling.popups.capture.media.title,"Capturar mídia","The title of the 'capture media' pop-up.",,,"Capture media"
+web.forms.page.filling.popups.clear.responses.prompt.button,"Apagar todas as respostas","The button label to clear all responses in the confirmation pop-up when you attempt to clear responses. ",,,"Clear all responses"
+web.forms.page.filling.popups.clear.responses.prompt.message,"Apagar todas as respostas da página atual?","The message in the confirmation pop-up when you attempt to clear responses. ",,,"Clear all responses on this current page?"
+web.forms.page.filling.popups.clear.responses.prompt.title,Confirmar,"The title of the confirmation pop-up when you attempt to clear responses. ",,,Confirm
+web.forms.page.filling.popups.close.button,Fechar,"Generic button label for all 'close' buttons in pop-ups.",,,Close
+web.forms.page.filling.popups.confirm.discard.prompt.button,"Sim, tenho certeza!","This is the button label to confirm exiting without saving in the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.",,,"Yes, I'm sure!"
+web.forms.page.filling.popups.confirm.discard.prompt.message,"Esta ação irá descartar todos os novos dados inseridos. Tem certeza que deseja continuar?","This is the message in the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.",,,"This will discard any new data that you have entered. Are you sure?"
+web.forms.page.filling.popups.confirm.discard.prompt.title,"Confirmar saída","This is the title of the pop-up when logged in users attempt to exit to main menu and then choose to discard changes.",,,"Confirm exit"
+web.forms.page.filling.popups.confirm.title,Confirmar,"Generic pop-up title for confirmation pop-ups.",,,Confirm
+web.forms.page.filling.popups.error.title,Erro,"Generic title of the pop-up window shown when an error message appears to the user and a more specific window title is not available.",,,Error
+web.forms.page.filling.popups.exit.form.prompt.message,"Deseja salvar o formulário antes de sair, ou descartar todas as alterações feitas?","This is the message in the pop-up when logged-in users attempt to exit to main menu.",,,"Do you want to save your form before exiting, or discard all changes that you've made?"
+web.forms.page.filling.popups.exit.form.prompt.negative.button,"Descartar alterações","This is the button label to discard changes in the pop-up when logged-in users attempt to exit to main menu.",,,"Discard Changes"
+web.forms.page.filling.popups.exit.form.prompt.positive.button,"Salvar alterações","This is the button label to save changes in the pop-up when logged-in users attempt to exit to main menu.",,,"Save Changes"
+web.forms.page.filling.popups.exit.form.prompt.title,"Confirmar saída","This is the title of the pop-up when logged-in users attempt to exit to main menu.",,,"Confirm exit"
+web.forms.page.filling.popups.form.saved.confirmation.message,"Fomulário salvo com sucesso!","This is the message in the confirmation pop-up when a logged-in user saves their form successfully.",,,"Form successfully saved!"
+web.forms.page.filling.popups.form.validated.confirmation.message,"Validação feita com sucesso!","This is the message in the confirmation pop-up when a logged-in user validates their form successfully.",,,"Validation succeeded!"
+web.forms.page.filling.popups.form.validated.go.to.end.button,"Ir para o final","This is the button label in the confirmation pop-up when a logged-in user validates their form successfully.",,,"Go to end"
+web.forms.page.filling.popups.no.cookies,"Os ""cookies"" estão desativados para este website. Você pode continuar, no entanto, caso a sua sessão seja interrompida por qualquer motivo, não será possível retomar formulários parcialmente preenchidos.<br/><br/><b>Além disso, não compartilhe o URL que está utilizando para preencher este formulário. Caso contrário, outras pessoas 
+poderão ter acesso e retomar sua sessão.</b>","The warning message that appears when a user has disabled cookies.",,,"We have detected that you have disabled ""cookie"" support for this website. You can do that, but please be aware that, without cookies to track your anonymous identity, you will not be able to resume a partially-filled form should your session be interrupted for some reason.<br/><br/><b>Also, do not copy the URL you are using to fill out this survey and share it with anybody else. If you do, they can see and resume your session.</b>"
+web.forms.page.filling.popups.remove.instance.prompt.button,"Sim, remover","This is the button label in the confirmation pop-up when you try to remove the current repeat instance.",,,"Yes, remove it"
+web.forms.page.filling.popups.remove.instance.prompt.message,"Confirmar remoção do grupo","This is the title of the confirmation pop-up when you try to remove the current repeat instance.",,,"Confirm group removal"
+web.forms.page.filling.popups.remove.instance.prompt.title,"Apagar grupo ""{0}"" e todos os seus sub-grupos?","This is the message in the confirmation pop-up when you try to remove the current repeat instance. {0} gets replaced by the repeat group label and instance number and must be included in your translation.",,,"Remove group ""{0}"" and all of its sub-groups?"
+web.forms.page.filling.popups.resume.prompt.message,"Já existe uma versão iniciada deste formulário, salva em {0}. Deseja retomar o formulário salvo, ou excluí-lo e começar de novo? (Se escolher começar de novo, a versão salva será excluída e não será possível recuperá-la.)","This is the message in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. {0} gets replaced with the date and time of the last form session and must be included in your translation.",,,"You have already started filling out this form and last updated it on {0}. Resume from where you left off, or discard that version and start again? (If you choose to start again, the old version will be discarded and there is no undo.)"
+web.forms.page.filling.popups.resume.prompt.negative.button,Descartar,"This is the button label to discard the old form in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ",,,Discard
+web.forms.page.filling.popups.resume.prompt.positive.button,Retomar,"This is the button label to resume filling out the old form in the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ",,,Resume
+web.forms.page.filling.popups.resume.prompt.title,"Formulário não-finalizado encontrado","This is the title of the 'resume form' pop-up that is presented when a logged-in user returns after their session expires. ",,,"Un-finished form found"
+web.forms.page.filling.popups.resume.different.caseid.negative.button,"Retomar {0}","The button label to continue filling out the partially-filled form from memory. {0} will be replaced by the case ID from memory and must be included in your translation.",,,"Resume {0}"
+web.forms.page.filling.popups.resume.different.caseid.positive.button,"Começar {0}","The button label to start a brand new form with a new case iD. {0} will be replaced by the case ID from the current URL and must be included in your translation.",,,"Start {0}"
+web.forms.page.filling.popups.resume.different.caseid.title,Aviso,"The title of the pop-up message prompting which case ID to use.",,,Warning
+web.forms.page.filling.popups.start.over.prompt.button,"Descartar alterações","This is the button label to discard changes in the pop-up when you attempt to start over.",,,"Discard Changes"
+web.forms.page.filling.popups.start.over.prompt.message,"Descartar todas as alterações e recomeçar um formulário em branco?","This is the message in the pop-up when you attempt to start over.",,,"Discard all changes and start over with a blank form?"
+web.forms.page.filling.popups.start.over.prompt.title,"Confirmar saída","This is the title of the pop-up when you attempt to start over.",,,"Confirm exit"
+web.forms.page.filling.popups.success.title,Sucesso,"Generic title of 'success' type pop-ups.",,,Success
+web.forms.page.filling.popups.warning.title,Aviso,"Generic title of 'warning' type pop-ups. ",,,Warning
+web.forms.page.filling.repeat.table.add.row.button,"Adicionar linha",,,,"Add row"
+web.forms.page.filling.repeat.table.back.level.button,"Voltar um nível","Tooltip when you hover over the arrow button in the top left of the table summary in a repeat group with the 'table' or 'table-labeled' appearance.",,,"Back one level"
+web.forms.page.filling.repeat.table.label,Resumo,"The heading just above the summary table in a repeat group with the 'table' or 'table-labeled' appearance.",,,Summary
+web.forms.page.filling.select1.minimal.label,"Selecionar uma resposta","The first option in the dropdown in a select_one field with the 'minimal' appearance.",,,"Select one answer"
+web.forms.page.filling.selectx.minimal.remove.response.button.label,"Apagar resposta","The button label to remove responses in a select_multiple field with the 'minimal' appearance.",,,"Remove response"
+web.forms.page.filling.text.error.numbers.appearance.invalid.input,"Por favor, insira apenas dígitos numéricos, sinal de menos (-), mais (+), vírgulas (,), pontos (.) e espaços ( ).","Error message that appears when the user enters one or more invalid characters into a field that uses the ""numbers"" appearance for showing the numeric keypad on mobile devices.",,,"Sorry, you may only enter numeric digits, minus symbols (-), plus symbols (+), commas (,), dots(.), and spaces ( )."
+web.forms.page.filling.text.error.numbers.phone.appearance.invalid.input,"Por favor, insira apenas dígitos numéricos, sinal de menos (-), mais (+), pontos (.), cardinais (#), asteriscos (*) e espaços ( ).","Error message that appears when the user enters one or more invalid characters into a field that uses the ""numbers_phone"" appearance for showing the phone-number keypad on mobile devices.",,,"Sorry, you may only enter phone digits, minus symbols (-), plus symbols (+), dots (.), hashtags (#), asterisks (*), and spaces( )."
+web.forms.page.filling.text.error.url.appearance.blank,"Nenhum url configurado.","Error message that appears when the user clicks to open the URL on a field with the ""url"" appearance but there is no URL to open.",,,"No url is set."
+web.forms.page.filling.text.url.appearance.button,"Abrir Url",,,,"Open Url"
+web.forms.page.filling.thankyou.not.submitted.text,"Obrigado! Nenhum dado foi enviado.","The message after you 'submit' a form in the test view of the Form Designer but choose to discard the data.",,,"Thank you! No data was submitted."
+web.forms.page.filling.thankyou.not.submitted.title,"O formulário não foi enviado","The title after you 'submit' a form in the test view of the Form Designer but choose to discard the data.",,,"Form was not submitted"
+web.forms.page.filling.thankyou.submitted.text,"Obrigado! O seu formulário foi enviado com sucesso.","The message after you submit a form.",,,"Thank you! Your form has been successfully submitted."
+web.forms.page.filling.thankyou.submitted.title,"Formulário enviado com sucesso","The title after you submit a form.",,,"Form successfully submitted"
+web.forms.page.filling.unknown.field.type.error.not.supported,"Não é possível apresentar o tipo do campo '{0}' na <i>interface web</i>. Ele será substituído por um campo de texto.","Error message that appears when a field with an unknown field type appears in a web form. {0} gets replaced with the field label and must be included in your translation.",,,"The type of the field '{0}' cannot be displayed in the web interface, so a text field will be used instead."
+web.forms.page.filling.video.select.file.button,"Selecione um arquivo de vídeo","The button label in a 'video' field type.",,,"Select video file"
+web.forms.page.forms.header,"Selecione um formulário em branco para preencher:","The heading text at the top of the 'fill blank form' page.",,,"Choose a blank form to fill out:"
+web.forms.page.forms.title,"Preencher formulário em branco","The page title of the 'fill blank form' page.",,,"Fill blank form"
+web.forms.page.main.download.app.button,"Download da aplicação","The button label on the main menu page.",,,"Download app"
+web.forms.page.main.edit.saved.form.button,"Editar formulário salvo","The button label on the main menu page (only available to logged-in users).",,,"Edit saved form"
+web.forms.page.main.fill.blank.form.button,"Preencher formulário em branco","The button label on the main menu page for logged-in users to get to the 'fill blank form' page.",,,"Fill blank form"
+web.forms.page.main.manage.cases.button,"Gerenciar casos","The button label on the main menu page (only available to logged-in users).",,,"Manage cases"
+web.forms.page.main.sub.title,"Coleta de dados com segurança e qualidade","The page subheading on the main menu page (only visible to logged-in users).",,,"Secure, high quality data collection"
+web.forms.page.main.title,"Menu principal","The page title of the main menu page (only visible to logged-in users).",,,"Main menu"
+web.forms.page.shared.form.delete.button,Excluir,"The button label for deleting a form on the 'delete saved form' page (only available to logged-in users).",,,Delete
+web.forms.page.shared.form.fill.out,Preencher,"The button label for filling out a form from any of the main menu sub-pages.",,,"Fill out"
+web.forms.page.shared.form.resume.button,Retomar,"The button label for resuming a form from the 'edit saved form' page (only available to logged-in users).",,,Resume
+web.forms.page.shared.form.title,Título,,,,Title
+web.forms.page.shared.no.forms.msg,"Não há formulários.","The message when there are no saved forms on any of the main menu pages (only available to logged-in users).",,,"There are no instances."
+web.forms.page.shared.return.to.main.page.button,"Voltar para o menu principal","The button label for returning to the main menu when you are on any of the main menu sub-pages.",,,"Return to main menu"
+web.forms.page.filling.date.months.april,Abril,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,April
+web.forms.page.filling.date.months.august,Agosto,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,August
+web.forms.page.filling.date.months.december,Dezembro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,December
+web.forms.page.filling.date.months.february,Fevereiro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,February
+web.forms.page.filling.date.months.january,Janeiro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,January
+web.forms.page.filling.date.months.july,Julho,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,July
+web.forms.page.filling.date.months.june,Junho,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,June
+web.forms.page.filling.date.months.march,Março,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,March
+web.forms.page.filling.date.months.may,Maio,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,May
+web.forms.page.filling.date.months.november,Novembro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,November
+web.forms.page.filling.date.months.october,Outubro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,October
+web.forms.page.filling.date.months.september,Setembro,"This is the month label used in date and datetime fields with the 'no-calendar' appearance.",,,September
+web.forms.page.filling.error.not.supported.web,"Desculpe, ocorreu um erro ao exibir este campo. A seguinte funcionalidade não é compatível com formulários web: {0}. O campo atual pode apresentar uma aparência alternativa para permitir que você continue a preencher este formulário. Para obter melhores resultados, use o SurveyCTO Collect em um dispositivo Android.","This is the error message that is displayed when the current field contains a feature that is unsupported in web forms, but may be supported in Collect for Android or Collect for iOS. {0} will be replaced with the specific feature name that is unsupported, and must be included in your translation.",,,"Sorry, there was an error displaying this field. The following feature is not supported in web forms: {0}. The current field may be using a fallback appearance to allow you to continue filling out this form. For best results, use SurveyCTO Collect on an Android device to fill this form out."
+web.forms.page.filling.popups.resume.different.caseid.message,"Você está prestes a começar um novo formulário para o caso com ID ""<b>{0}</b>"". Notamos que o preenchimento do formulário não foi finalizado para o caso com ID ""<b>{1}</b>"". Deseja cotinuar preenchendo esse formulário, ou começar um novo?","Whenever a user visits a form that they had already started filling out, SurveyCTO attempts to resume the partially-filled form from memory. If the partially-filled form has a different case ID than the current URL, a pop-up will appear with this message asking which form they wish to fill out. {0} will be replaced by the case ID from the current URL, and {1} will be replaced by the case ID from memory. Both {0} and {1} must be included in your translation.",,,"You are about to start a new form for case ID ""<b>{0}</b>"". We noticed that you haven't finished filling out the form for case ID ""<b>{1}</b>"". Do you want to resume filling out that form, or start a new one?"
+web.forms.page.shared.form.last.saved,"Salvo pela última vez em","The label preceding the timestamp on all of the main menu sub-pages (only available to logged-in users).",,,"Last saved"
+web.forms.page.shared.form.name,Nome,"The label preceding the form name on all of the main menu sub-pages for logged-in users.",,,Name
+web.forms.page.shared.form.id,ID,"The label preceding the form ID on all of the main menu sub-pages.",,,ID
+web.forms.page.shared.form.version,Versão,"The label preceding the form version on all the main menu sub-pages.",,,Version
+web.forms.page.main.delete.saved.form.button,"Excluir formulário salvo","The button label on the main menu page (only available to logged-in users).",,,"Delete saved form"
+web.forms.page.login.fill.web.data.collection.disabled.text,"(A coleta de dados pela web não foi ativada para este servidor. Você deverá utilizar o aplicativo móvel para coletar dados.)","Warning that appears when you access the login page but an admin has disabled web data collection.",,,"(Web data collection has not been enabled for this server, so you must use the mobile app to collect data.)"
+web.forms.page.login.go.back.to.console.link,"Clique aqui para iniciar sessão no servidor.","Link for returning to the server console.",,,"Click here to login to the server console."
+web.forms.page.login.fill.web.forms.anonymously.button,"Preencher formulários web anonimamente","The button label for filling web forms anonymously.",,,"Fill web forms anonymously"
+web.forms.page.login.or.text,Ou,"This text separates the different form access options on the login page (fill forms anonymously, log in, or download the mobile app). Please note: this text will always be rendered in uppercase letters. ",,,Or
+web.forms.page.login.servername.input,"Nome do servidor:","The label for the server name input on the login page.",,,"Server name:"
+web.forms.page.login.username.input,"Email ou usuário:","The label for the username input on the login page.",,,"Email address or username:"
+web.forms.page.login.username.placeholder,"Seu email ou usuário:","This is the placeholder for the username input on the login page.",,,"Your email or username"
+web.forms.page.login.password.input,Senha:,"The label for the password input on the login page.",,,Password:
+web.forms.page.login.password.placeholder,"Sua senha","This is the placeholder for the password input on the login page.",,,"Your password"
+web.forms.page.login.back.button,Voltar,"The button label for changing the username for login. Appears when external authentication (SSO) is set up on the server, but the current username specified requires a password.",,,Back
+web.forms.page.login.next.button,Seguinte,"The button label for proceeding with the login. Appears when external authentication (SSO) is set up on the server, but the current username specified requires a password.",,,Next
+web.forms.page.login.login.button,"Iniciar sessão","The button label for logging in.",,,"Log in"
+web.forms.page.login.terms.conditions.link,"Termos e condições","The label for the terms and conditions link.",,,"Terms and conditions"
+web.forms.page.login.brought.to.you.by.text,"Desenvolvido por","Dobility branding. Appears only on the login page.",,,"Brought to you by"
+web.forms.page.login.no.cookies.error,"Parece que os ""cookies"" estão desativados nas configurações de privacidade do seu browser e o SurveyCTO requer cookies para funcionar. Por este motivo, só será possível iniciar uma sessão depois de ativá-los e atualizar esta página.","Error message that appears when you try to log in with cookies disabled.",,,"It looks like you have disabled ""cookie"" support in your Internet browser's privacy settings, but SurveyCTO requires cookies to function. Therefore, you are unlikely to be able to login until you enable cookies and refresh this page."
+web.forms.page.login.authentication.options.error,"Desculpe mas não conseguimos identificar as opções de autenticação para '{0}'.","Error message that appears when the server cannot identify authentication options for a username. {0} gets replaced with the attempted username and must be included in your translation.",,,"I'm sorry but we couldn't identify authentication options for '{0}'."
