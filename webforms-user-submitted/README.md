@@ -4,7 +4,7 @@ The tables in this folder have been generously provided by various SurveyCTO use
 
 |Language|Author credits|
 |---|---|
-|[Arabic](scto-webforms-arabic.csv)|Oxfam|
-|[Burmese](scto-webforms-burmese.csv)|Oxfam|
+|[Arabic](scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Burmese](scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |[Portuguese (Brazillian)](scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
 |[Portuguese (European)](scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
