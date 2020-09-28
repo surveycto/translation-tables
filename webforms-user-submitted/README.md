@@ -6,5 +6,5 @@ The tranlation tables in this folder have been generously provided by various Su
 |---|---|
 |[![Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv">Burmese</a>|[Oxfam](https://www.oxfam.org.uk/)|
-|<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv">Portuguese (Brazillian)</a>|[Wallace](https://github.com/wallace-df)|
+|<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv" download>Portuguese (Brazillian)</a>|[Wallace](https://github.com/wallace-df)|
 |<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv">Portuguese (European)</a>|[Marta](https://github.com/martacto)|
