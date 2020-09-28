@@ -2,7 +2,7 @@
 
 The tranlations tables in this folder have been generously provided by various SurveyCTO users. They are offered here as a courtesy to other users. SurveyCTO does not make any guarantees about the accuracy of these tables. Please use appropriate care in reviewing them before deploying.
 
-## Downloading these tables
+## Downloading tables
 Right-click on the language name in the first column of the table, and choose the option for your browser to save the file to your computer. In Google Chrome, that option is _Save Link As..._
 
 |**Language**|**Author credits**|
