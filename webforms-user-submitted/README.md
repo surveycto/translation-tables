@@ -5,7 +5,7 @@ The tranlations tables in this folder have been generously provided by various S
 ## Downloading tables
 Right-click on the language name in the first column of the table, and choose the option for your browser to save the file to your computer. In Google Chrome, that option is _Save Link As..._
 
-|**Language**|**Author credits**|
+|Language|Author credits|
 |---|---|
 |[Arabic](scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |[Burmese](scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
