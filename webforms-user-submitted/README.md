@@ -2,12 +2,12 @@
 
 The translation tables in this folder have been generously provided by various SurveyCTO users. They are offered here as a courtesy to other users. SurveyCTO does not make any guarantees about the accuracy of these tables. Please use appropriate care in reviewing them before deploying.
 
-|Language|Last updated|Author credits|
-|---|---|---|
-|[Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|September 29, 2020|[Oxfam](https://www.oxfam.org.uk/)|
-|[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|September 29, 2020|[Oxfam](https://www.oxfam.org.uk/)|
-|[Portuguese (Brazillian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|September 29, 2020|[Wallace](https://github.com/wallace-df)|
-|[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|September 29, 2020|[Marta](https://github.com/martacto)|
+|Language|Author credits|
+|---|---|
+|[Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Portuguese (Brazillian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
+|[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
 > **How do I download these files?**  
   When you click on one of the language names in the first column above, your browser will automatically open the CSV file instead of downloading it (you will see the entire contents of the file in plain text format). With the file open in your browser, you can simply click _File > Save Page As..._ and then save the CSV file to the appropriate location on your computer. If you're using Safari, you may have to remove the ".txt" or ".webarchive" from the end of the filename after you've saved it.
