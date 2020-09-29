@@ -10,7 +10,7 @@ The translation tables in this folder have been generously provided by various S
 |[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
 > **How do I download these files?**  
-  Right-click on the language name in the first column, and choose the option to save the linked file to your computer. In Firefox and Chrome, that option is labeled _Save Link As..._; in Safari, it's labeled _Download linked file as..._.
+  When you click on one of the language names in the first column above, your browser will automatically open the CSV file instead of downloading it (you will see the entire contents of the file in plain text format). With the file open in your browser, you can simply click _File > Save Page As..._ and then save the CSV file to the appropriate location on your computer. If you're using Safari, you may have to remove the ".txt" or ".webarchive" from the end of the filename after you've saved it.
 
 ## How to Engage, Contribute and Provide Feedback
 
