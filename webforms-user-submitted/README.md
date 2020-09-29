@@ -4,10 +4,10 @@ The tranlations tables in this folder have been generously provided by various S
 
 |Language|Author credits|
 |---|---|
-|[Arabic](scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
-|[Burmese](scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
-|[Portuguese (Brazillian)](scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
-|[Portuguese (European)](scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
+|[Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Portuguese (Brazillian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
+|[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
 > **How do I download these files?**  
   Right-click on the language name in the first column, and choose the option to save the linked file to your computer. In Firefox and Chrome, that option is labeled _Save Link As..._; in Safari, it's labeled _Download linked file as..._.
