@@ -6,7 +6,7 @@ The translation tables in this folder have been generously provided by various S
 |---|---|
 |[Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
-|[Portuguese (Brazillian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
+|[Portuguese (Brazilian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
 |[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
 > **How do I download these files?**  
