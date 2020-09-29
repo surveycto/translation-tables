@@ -7,10 +7,10 @@ Right-click on the language name in the first column of the table, and choose th
 
 |**Language**|**Author credits**|
 |---|---|
-|<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv">Arabic</a>|[Oxfam](https://www.oxfam.org.uk/)|
-|<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv">Burmese</a>|[Oxfam](https://www.oxfam.org.uk/)|
-|<a href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv" download>Portuguese (Brazillian)</a>|[Wallace](https://github.com/wallace-df)|
-|<a id="raw-url" href="https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv">Portuguese (European)</a>|[Marta](https://github.com/martacto)|
+|[Arabic](scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Burmese](scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Portuguese (Brazillian)](scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
+|[Portuguese (European)](scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
 ## Corrections
 If you find an error in a user-created web form interface translation, or would generally like to help improve an existing translation, write to support@surveycto.com.
