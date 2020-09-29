@@ -12,5 +12,11 @@ Right-click on the language name in the first column of the table, and choose th
 |[Portuguese (Brazillian)](scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
 |[Portuguese (European)](scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 
-## Corrections
-If you find an error in a user-created web form interface translation, or would generally like to help improve an existing translation, write to support@surveycto.com.
+## How to Engage, Contribute and Provide Feedback
+
+We welcome contributions to this project!
+
+1. **New languages**  
+  If you would like to contribute your own translation table, please feel free to write to <support@surveycto.com>. If you are familiar with GitHub, you can also fork this repo and submit a PR with your new table. Please make sure to include your name and website so we can credit you properly.
+1. **Errors and corrections**  
+  If you find an error in one of these translation tables, please feel free to write to <support@surveycto.com>, or [create a new issue](https://github.com/surveycto/translation-tables/issues/new) in this repo.
