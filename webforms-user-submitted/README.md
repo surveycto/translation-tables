@@ -1,6 +1,6 @@
 # User-submitted translation tables
 
-The tranlations tables in this folder have been generously provided by various SurveyCTO users. They are offered here as a courtesy to other users. SurveyCTO does not make any guarantees about the accuracy of these tables. Please use appropriate care in reviewing them before deploying.
+The translation tables in this folder have been generously provided by various SurveyCTO users. They are offered here as a courtesy to other users. SurveyCTO does not make any guarantees about the accuracy of these tables. Please use appropriate care in reviewing them before deploying.
 
 |Language|Author credits|
 |---|---|
