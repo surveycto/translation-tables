@@ -166,8 +166,6 @@ web.forms.page.shared.form.version,Version,"The label preceding the form version
 web.forms.page.main.delete.saved.form.button,"Supprimer le formulaire enregistré","The button label on the main menu page (only available to logged-in users).",,,"Delete saved form"
 web.forms.page.login.fill.web.data.collection.disabled.text,"(La collecte de données sur le web n'a pas été activée pour ce serveur, vous devez donc utiliser l'application mobile pour collecter des données.)","Warning that appears when you access the login page but an admin has disabled web data collection.",,,"(Web data collection has not been enabled for this server, so you must use the mobile app to collect data.)"
 web.forms.page.login.go.back.to.console.link,"Cliquer ici pour se connecter au serveur de console.","Link for returning to the server console.",,,"Click here to login to the server console."
-web.forms.page.login.fill.web.forms.anonymously.button,"Remplir les formulaires web de manière anonyme","The button label for filling web forms anonymously.",,,"Fill web forms anonymously"
-web.forms.page.login.or.text,Ou,"This text separates the different form access options on the login page (fill forms anonymously, log in, or download the mobile app). Please note: this text will always be rendered in uppercase letters. ",,,Or
 web.forms.page.login.servername.input,"Nom du serveur:","The label for the server name input on the login page.",,,"Server name:"
 web.forms.page.login.username.input,"Courriel ou nom d'utilisateur","The label for the username input on the login page.",,,"Email address or username:"
 web.forms.page.login.username.placeholder,"Votre courriel ou nom d'utilisateur","This is the placeholder for the username input on the login page.",,,"Your email or username"

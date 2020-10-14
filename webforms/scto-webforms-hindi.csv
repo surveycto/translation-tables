@@ -166,8 +166,6 @@ web.forms.page.shared.form.version,संस्करण,"The label preceding th
 web.forms.page.main.delete.saved.form.button,"सहेजे गए फ़ॉर्म को हटाएं","The button label on the main menu page (only available to logged-in users).",,,"Delete saved form"
 web.forms.page.login.fill.web.data.collection.disabled.text,"(इस सर्वर के लिए वेब डेटा संग्रह सक्षम नहीं किया गया है, इसलिए आपको डेटा एकत्र करने के लिए मोबाइल ऐप का उपयोग करना होगा।)","Warning that appears when you access the login page but an admin has disabled web data collection.",,,"(Web data collection has not been enabled for this server, so you must use the mobile app to collect data.)"
 web.forms.page.login.go.back.to.console.link,"सर्वर कंसोल में लॉग इन (प्रवेश) करने के लिए यहां क्लिक करें","Link for returning to the server console.",,,"Click here to login to the server console."
-web.forms.page.login.fill.web.forms.anonymously.button,"गुमनाम रूप से (बिना पहचान बताये) वेब फ़ॉर्म भरें","The button label for filling web forms anonymously.",,,"Fill web forms anonymously"
-web.forms.page.login.or.text,या,"This text separates the different form access options on the login page (fill forms anonymously, log in, or download the mobile app). Please note: this text will always be rendered in uppercase letters. ",,,Or
 web.forms.page.login.servername.input,"सर्वर का नाम:","The label for the server name input on the login page.",,,"Server name:"
 web.forms.page.login.username.input,"ईमेल पता या यूजरनेम:","The label for the username input on the login page.",,,"Email address or username:"
 web.forms.page.login.username.placeholder,"आपका ईमेल या यूजरनेम","This is the placeholder for the username input on the login page.",,,"Your email or username"
