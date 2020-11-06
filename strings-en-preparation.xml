@@ -325,7 +325,9 @@
 <string name="change_display_density">Display density</string>
 <string name="form_scan_starting">Scanning for forms&#8230;</string>
 <string name="access_error">Error while accessing %s: </string>
+<!-- "manifest_server_error" is not something I've seen before. It is possible irrelevant for SurveyCTO, and if not, it is very unclear/unhelpful -->
 <string name="manifest_server_error">Manifest reply does not report an OpenRosa version &#8212; bad server?</string>
+<!-- The special codes in "root_element_error" seem to tag "manifest" in POEditor -->
 <string name="root_element_error">Root element is not &lt;manifest\&gt; &#8212; was %s</string>
 <string name="root_namespace_error">Root element Namespace is incorrect: %s</string>
 <string name="manifest_tag_error">Manifest entry %s is missing one or more tags: filename, hash, or downloadUrl</string>
