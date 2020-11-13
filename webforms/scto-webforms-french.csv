@@ -67,10 +67,10 @@ web.forms.page.filling.menu.skip.to.next,"Passer au suivant","Logged-in users wi
 web.forms.page.filling.menu.start.over,Recommencer,"This is the option in the 'options' dropdown menu to discard all the current responses and start over from a blank form.",,,"Start over"
 web.forms.page.filling.menu.validate.form,"Valider le formulaire","Logged-in users will see this option in the 'options' dropdown menu.",,,"Validate form"
 web.forms.page.filling.nav.end,"Aller à la fin","The tooltip that appears when you hover over the circle 'go to end' button.",,,"Go to end"
-web.forms.page.filling.nav.next,Prochain,"The tooltip that appears when you hover over the circle 'next' button.",,,Next
+web.forms.page.filling.nav.next,Suivant,"The tooltip that appears when you hover over the circle 'next' button.",,,Next
 web.forms.page.filling.nav.previous,Précédent,"The tooltip that appears when you hover over the circle  'previous' button.",,,Previous
 web.forms.page.filling.nav.start,"Aller au début","The tooltip that appears when you hover over the circle 'go to start' button. ",,,"Go to start"
-web.forms.page.filling.next.button,Prochain,"The button label for the blue 'next' button at the bottom right. ",,,Next
+web.forms.page.filling.next.button,Suivant,"The button label for the blue 'next' button at the bottom right. ",,,Next
 web.forms.page.filling.numerical.error.not.numeric,"Veuillez entrer un chiffre uniquement.","Error message that appears when the user is prompted for a decimal value and enters something invalid.",,,"Please enter a number only."
 web.forms.page.filling.popups.add.comment.intro,"Veuillez saisir votre commentaire dans le champ ci-dessous:","This is the field label in the pop-up to add a comment.",,,"Please type your comment in the field below:"
 web.forms.page.filling.popups.add.comment.save.button,"Enregistrer le commentaire","This is the button label in the pop-up to save a comment.",,,"Save comment"
