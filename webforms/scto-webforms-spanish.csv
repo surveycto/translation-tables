@@ -212,12 +212,12 @@ web.forms.page.manage.cases.filter.description.text,"Solo casos con","This is th
 web.forms.page.manage.cases.filter.button,Filtro,"This is the button used to filter the list of cases on the manage cases page.",,"Added in SCTO_v2.70.12.",Filter
 web.forms.page.manage.cases.no.cases,"Ningún caso encontrado.","This is the text that appears when there are no cases at all to show.",,"Added in SCTO_v2.70.12.","No cases were found."
 web.forms.page.manage.cases.no.filter.results,"Ningún caso encontrado con este filtro.","This is the text that appears when the user enters a search query that produces no results.",,"Added in SCTO_v2.70.12.","No cases were found with this filter."
-web.forms.page.shared.form,formulario,"Form (singular). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.13.",form
-web.forms.page.shared.forms,formularios,"Forms (plural). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.13.",forms
-web.forms.page.shared.form.last.edited,"Modificado por última vez","On the manage cases page, this indicates the date on which saved forms were last changed.",,"Added in SCTO_v2.70.13.","Last edited"
-web.forms.page.shared.blank.forms,"Formularios en blanco","On the manage cases page, this is the list of forms that have not yet been filled out.",,"Added in SCTO_v2.70.13.","Blank Forms"
-web.forms.page.shared.saved.forms,"Formularios guardados","On the manage cases page, this is the list of forms which have been partially filled out and saved.",,"Added in SCTO_v2.70.13.","Saved Forms"
-web.forms.page.manage.cases.form.title,"Título del formulario","On the manage cases page, this is the label in front of the form name/form title.",,"Added in SCTO_v2.70.13.","Form title"
+web.forms.page.shared.form,formulario,"Form (singular). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.14.",form
+web.forms.page.shared.forms,formularios,"Forms (plural). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.14.",forms
+web.forms.page.shared.form.last.edited,"Modificado por última vez","On the manage cases page, this indicates the date on which saved forms were last changed.",,"Added in SCTO_v2.70.14.","Last edited"
+web.forms.page.shared.blank.forms,"Formularios en blanco","On the manage cases page, this is the list of forms that have not yet been filled out.",,"Added in SCTO_v2.70.14.","Blank Forms"
+web.forms.page.shared.saved.forms,"Formularios guardados","On the manage cases page, this is the list of forms which have been partially filled out and saved.",,"Added in SCTO_v2.70.14.","Saved Forms"
+web.forms.page.manage.cases.form.title,"Título del formulario","On the manage cases page, this is the label in front of the form name/form title.",,"Added in SCTO_v2.70.14.","Form title"
 web.forms.page.filling.menu.appearance,Apariencia,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.label.",Appearance
 web.forms.page.filling.menu.appearance.default,Defecto,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.default",Default
 web.forms.page.filling.menu.appearance.small,Pequeño,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.narrow",Small
