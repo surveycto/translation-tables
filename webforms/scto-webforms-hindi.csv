@@ -1,4 +1,3 @@
-Term,Translation,Context,Reference,Comment,Reference translation
 commons.learn.more,"और अधिक जानें...","Put anywhere the user can learn more by clicking on a link.",,,"Learn more..."
 commons.powered.by.surveycto,"{0} द्वारा संचालित","SurveyCTO branding. {0} gets replaced by ""SurveyCTO"" and must be included in your translation.",,,"Powered by {0}"
 web.forms.page.delete.instances.confirmation.message,"क्या आप वाकई इस फ़ॉर्म को डिलीट करना चाहते हैं?","Text to confirm that the user wants to delete a filled-out form (i.e., a submission).",,,"Are you sure you want to delete this form?"
@@ -53,11 +52,6 @@ web.forms.page.filling.login.panel.logout.btn,"लॉग आउट करें"
 web.forms.page.filling.login.panel.not.loggedin.long,"आप वर्तमान में लॉग्ड इन नहीं हैं","This appears in the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).",,,"You are not currently logged in"
 web.forms.page.filling.login.panel.not.loggedin.short,"लॉग्ड इन नहीं है","This is the label for the user dropdown menu in the top right for anonymous users (users who are not logged in to your server).",,,"Not logged in"
 web.forms.page.filling.menu.add.comment,"टिप्पणी जोड़ें","If your form contains a comments field, this is the menu option label to leave a comment. ",,,"Add comment"
-web.forms.page.filling.menu.appearance,अपीयरेंस,"This is the dropdown menu label to change the appearance style (only available to logged-in users).",,,Appearance
-web.forms.page.filling.menu.appearance.default,डिफ़ॉल्ट,"Label in the Appearance dropdown menu for the 'default' appearance style.",,,Default
-web.forms.page.filling.menu.appearance.small,छोटा,"Label in the Appearance dropdown menu for the 'small' appearance style.",,,Small
-web.forms.page.filling.menu.appearance.small.wide,छोटा-चौड़ा,"Label in the Appearance dropdown menu for the 'small wide' appearance style.",,,"Small wide"
-web.forms.page.filling.menu.appearance.wide,चौड़ा,"Label in the Appearance dropdown menu for the 'wide' appearance style.",,,Wide
 web.forms.page.filling.menu.clear.responses,"प्रतिक्रियाएँ हटाएँ","The option in the 'options' dropdown menu to remove your response from the current field. ",,,"Clear responses"
 web.forms.page.filling.menu.exit.to.main.menu,"मुख्य मेनू पर बाहर निकलें","Logged-in users will see this option in the 'options' dropdown menu.",,,"Exit to main menu"
 web.forms.page.filling.menu.options,विकल्प,"The label for the 'options' dropdown menu.",,,Options
@@ -212,14 +206,24 @@ web.forms.page.login.private.form.body.line1,"फ़ॉर्म ({0}) जिस
 web.forms.page.login.private.form.body.line2,"यदि आपके पास इस सर्वर पर उपयोगकर्ता का अकाउंट  नहीं है, तो कृपया उस व्यक्ति से संपर्क करें जिसने आपको यह लिंक दिया है और उनसे एक उपयोगकर्ता नाम और पासवर्ड मांगें। या, उन्हें इस फॉर्म {0} के लिए अनुमति देने के लिए कहें।","This is the second part of the message that appears when you follow a direct link to a private web form without being logged in. {0} gets replaced with a link to a documentation article on allowing anonymous access, and must be included in your translation.",,"Added in SCTO_v2.70.9.","If you do not have a user account on this server, please contact the person who gave you this link and ask them for a username and password. Or, ask them to allow {0} for this form."
 web.forms.page.login.private.form.allow.anonymous.link,"अज्ञात पहचान से खोलने की अनुमति दें","This is the label for the link in the previous term (web.forms.page.login.private.form.body.line2).",,"Added in SCTO_v2.70.9.","allow anonymous access"
 web.forms.page.login.download.app.text,"क्या आप कलेक्ट एप्प खोज रहे हैं?","This is the hint text that appears on the login page above the links to download the Collect app on the Apple App Store and Google Play Store.",,"Added in SCTO_v2.70.9.","Looking for the Collect app?"
-web.forms.page.manage.cases.title,"मैनेज केसेज","The page title on the manage cases page.",,"Added in SCTO_v2.70.14.","Manage cases"
-web.forms.page.manage.cases.filter.description.text,"केवल केसेज जिनमें","This is the label used to filter the case list to only show cases that contain a specific bit of text.",,"Added in SCTO_v2.70.14.","Only cases with"
-web.forms.page.manage.cases.filter.button,फ़िल्टर,"This is the button used to filter the list of cases on the manage cases page.",,"Added in SCTO_v2.70.14.",Filter
-web.forms.page.manage.cases.no.cases,"कोई केस नहीं मिला","This is the text that appears when there are no cases at all to show.",,"Added in SCTO_v2.70.14.","No cases were found."
-web.forms.page.manage.cases.no.filter.results,"इस फिल्टर के साथ कोई केस नहीं मिला।","This is the text that appears when the user enters a search query that produces no results.",,"Added in SCTO_v2.70.14.","No cases were found with this filter."
-web.forms.page.shared.form,फॉर्म,"Form (singular). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.14.",form
-web.forms.page.shared.forms,फॉर्म्स,"Forms (plural). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.14.",forms
-web.forms.page.shared.form.last.edited,"अंतिम बार संपादित","On the manage cases page, this indicates the date on which saved forms were last changed.",,"Added in SCTO_v2.70.14.","Last edited"
-web.forms.page.shared.blank.forms,"रिक्त फॉर्म","On the manage cases page, this is the list of forms that have not yet been filled out.",,"Added in SCTO_v2.70.14.","Blank Forms"
-web.forms.page.shared.saved.forms,"सहेजे गए फॉर्म्स","On the manage cases page, this is the list of forms which have been partially filled out and saved.",,"Added in SCTO_v2.70.14.","Saved Forms"
-web.forms.page.manage.cases.form.title,"फॉर्म का शीर्षक","On the manage cases page, this is the label in front of the form name/form title.",,"Added in SCTO_v2.70.14.","Form title"
+web.forms.page.manage.cases.title,"मैनेज केसेज","The page title on the manage cases page.",,"Added in SCTO_v2.70.12.","Manage cases"
+web.forms.page.manage.cases.filter.description.text,"केवल केसेज जिनमें","This is the label used to filter the case list to only show cases that contain a specific bit of text.",,"Added in SCTO_v2.70.12.","Only cases with"
+web.forms.page.manage.cases.filter.button,फ़िल्टर,"This is the button used to filter the list of cases on the manage cases page.",,"Added in SCTO_v2.70.12.",Filter
+web.forms.page.manage.cases.no.cases,"कोई केस नहीं मिला","This is the text that appears when there are no cases at all to show.",,"Added in SCTO_v2.70.12.","No cases were found."
+web.forms.page.manage.cases.no.filter.results,"इस फिल्टर के साथ कोई केस नहीं मिला।","This is the text that appears when the user enters a search query that produces no results.",,"Added in SCTO_v2.70.12.","No cases were found with this filter."
+web.forms.page.shared.form,फॉर्म,"Form (singular). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.13.",form
+web.forms.page.shared.forms,फॉर्म्स,"Forms (plural). This is used in multiple places throughout the UI.",,"Added in SCTO_v2.70.13.",forms
+web.forms.page.shared.form.last.edited,"अंतिम बार संपादित","On the manage cases page, this indicates the date on which saved forms were last changed.",,"Added in SCTO_v2.70.13.","Last edited"
+web.forms.page.shared.blank.forms,"रिक्त फॉर्म","On the manage cases page, this is the list of forms that have not yet been filled out.",,"Added in SCTO_v2.70.13.","Blank Forms"
+web.forms.page.shared.saved.forms,"सहेजे गए फॉर्म्स","On the manage cases page, this is the list of forms which have been partially filled out and saved.",,"Added in SCTO_v2.70.13.","Saved Forms"
+web.forms.page.manage.cases.form.title,"फॉर्म का शीर्षक","On the manage cases page, this is the label in front of the form name/form title.",,"Added in SCTO_v2.70.13.","Form title"
+web.forms.page.filling.menu.appearance,अपीयरेंस,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.label.",Appearance
+web.forms.page.filling.menu.appearance.default,चूक,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.default",Default
+web.forms.page.filling.menu.appearance.small,छोटा,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.narrow",Small
+web.forms.page.filling.menu.appearance.small.wide,"छोटा चौड़ा","UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.narrow","Small wide"
+web.forms.page.filling.menu.appearance.wide,चौड़ा,"UNUSED: depreciated in SCTO_v2.70.14",,"This term was replaced by web.forms.page.filling.menu.width.wide",Wide
+web.forms.page.filling.menu.width.default,डिफ़ॉल्ट,"The default setting for form width",,"Added in SCTO_v2.70.14.",Default
+web.forms.page.filling.menu.width.label,चौड़ाई,"The setting to control the width that the form appears on the page.",,"Added in SCTO_v2.70.14.",Width
+web.forms.page.filling.menu.width.narrow,संकरा,"The narrow setting for form width.",,"Added in SCTO_v2.70.14.",Narrow
+web.forms.page.filling.menu.width.very.narrow,"बहूत संकरा","The narrowest setting for form width.",,"Added in SCTO_v2.70.14.","Very narrow"
+web.forms.page.filling.menu.width.wide,चौड़ा,"The wide setting for form width.",,"Added in SCTO_v2.70.14.",Wide
