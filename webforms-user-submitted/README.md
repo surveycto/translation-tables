@@ -8,6 +8,8 @@ The translation tables in this folder have been generously provided by various S
 |[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |[Portuguese (Brazilian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
 |[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
+|[Russian](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-russian.csv)|[Minority Rights](http://www.facebook.com/minorityrights)|
+|[Bangla](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-bangla.csv)|[ARCED Foundation](http://www.arced.foundation)|
 
 > **How do I download these files?**  
   When you click on one of the language names in the first column above, your browser will automatically open the CSV file instead of downloading it (you will see the entire contents of the file in plain text format). With the file open in your browser, you can simply click _File > Save Page As..._ and then save the CSV file to the appropriate location on your computer. If you're using Safari, you may have to remove the ".txt" or ".webarchive" from the end of the filename after you've saved it.
