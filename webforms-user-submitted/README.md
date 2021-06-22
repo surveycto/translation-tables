@@ -5,11 +5,11 @@ The translation tables in this folder have been generously provided by various S
 |Language|Author credits|
 |---|---|
 |[Arabic](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-arabic.csv)|[Oxfam](https://www.oxfam.org.uk/)|
+|[Bangla](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-bangla.csv)|[ARCED Foundation](http://www.arced.foundation)|
 |[Burmese](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-burmese.csv)|[Oxfam](https://www.oxfam.org.uk/)|
 |[Portuguese (Brazilian)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese-BR.csv)|[Wallace](https://github.com/wallace-df)|
 |[Portuguese (European)](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-portuguese.csv)|[Marta](https://github.com/martacto)|
 |[Russian](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-russian.csv)|[Minority Rights](http://www.facebook.com/minorityrights)|
-|[Bangla](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-bangla.csv)|[ARCED Foundation](http://www.arced.foundation)|
 |[Telugu](https://github.com/surveycto/translation-tables/raw/master/webforms-user-submitted/scto-webforms-telugu.csv)|[CEGIS](https://www.cegis.org/)|
 
 > **How do I download these files?**  
