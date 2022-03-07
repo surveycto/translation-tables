@@ -242,7 +242,7 @@ web.forms.page.filling.enumerator.field.id,"ID","The label of 'Enumerator ID' in
 web.forms.page.filling.enumerator.field.add.title,"Add New Enumerator","The title of Add enumerator popup.",,"Added in SCTO_v2.72.",
 web.forms.page.filling.enumerator.field.cancel,"Cancel","The label of the cancel button.",,"Added in SCTO_v2.72.",
 web.forms.page.filling.enumerator.field.submit,"Submit","The label of the submit button.",,"Added in SCTO_v2.72.",
-web.forms.page.filling.enumerator.field.manager.code.title,"Manager code needed","The title of the manager code prompt screen.",,"Added in SCTO_v2.72.",
+web.forms.page.filling.enumerator.field.manager.code.title,Manager code required,"The title of the manager code prompt screen.",,"Added in SCTO_v2.72.",
 web.forms.page.filling.enumerator.field.manager.code.msg1,"Please enter the manager override code needed to add a new enumerator.","The instruction displayed in manager code prompt screen. Appears when adding a new enumerator and add-new-code is provided.",,"Added in SCTO_v2.72.",
 web.forms.page.filling.enumerator.field.manager.code.msg2,"Please enter the manager override code needed to select an enumerator not linked to your login.","The instruction displayed in manager code prompt screen. Appears when viewing other enumerators and other-user-code is provided.",,"Added in SCTO_v2.72.",
 web.forms.page.filling.enumerator.field.list.title,"Please select your name from the list of enumerators.","The instruction displayed when viewing enumerators in list mode.",,"Added in SCTO_v2.72.",
